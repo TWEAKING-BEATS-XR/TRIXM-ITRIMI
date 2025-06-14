@@ -1,12 +1,2923 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\colin\\source\\repos\\TRIXMI\\TRIXMI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of AHM-1||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Code Optimizer||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code API key  Google AI Studio.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (32).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code flutter-1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of notebookfcb88ba979||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek 3||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code Python library (1)-1 (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code Python library (1) (2).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\music-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Colin Kemp - Confluence||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Credits \u2013 My Billing Account.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Created using Colab \u00B7 teakingbeatsxr-ALIEN.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Core library desugaring crashing app after.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of notebookfcb88ba979 1||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of notebookfcb88ba979 (2)||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of notebookfa2a062410 1||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of notebookfa2a062410 (2)||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of notebookfa2a062410||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of MediaPipe Model Maker Image Classifier Demo.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of MediaPipe Model Maker Image Classifier Demo (1).ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Gemma3_1b_fine_tune.ipynb - Colab.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Gemma3_1b_fine_tune.ipynb - Colab (1).png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Gemma3_1b_fine_tune.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek 2||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek 1||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek (1)||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Code_Execution-2.ipynb - Colab||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Code_Execution-2 (1).ipynb - Colab||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Code_Execution-1.ipynb - Colab||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Code_Execution-1 (1).ipynb - Colab||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Code_Execution.ipynb - Colab||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Code_Execution (1).ipynb - Colab||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Alien_House_Music_App_Design.ipynb -.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of Alien_House_Music_App_Design.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copilot Digital Summit_ Innovate with AI.ics||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copilot Digital Summit_ Innovate with AI 2.ics||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copilot Digital Summit_ Innovate with AI 1.ics||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud-1 (1)||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud-1||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud (1)||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Comparing.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\com.custom.mac_os.authentication.authenticationSdk-0.0.1 (2).code-workspace||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\colin-kemp.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Colin_Kemp.vcf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-3 (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-3 (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-2 (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-2 (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-1 (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-1 (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code Python library (1)-2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code Python library (1)-2 (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code Python library (1)-1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code Python library (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code Python library (1) (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code flutter-1 (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code flutter.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code flutter calling API-1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code flutter calling API-1 (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code flutter calling API.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code flutter calling API (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code flutter (2).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code flutter (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code backend-1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code backend-1 (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code backend.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code backend (2).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code backend (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (35).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (34).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (33).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (31).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (30).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (29).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (22).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (21).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (20).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (19).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (18).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (17).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (16).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (15).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (14).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (13).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (12).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (11).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (10).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (9).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (8).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (7).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (7).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (6).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (6).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (5).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (5).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (5) docker file-1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (5) docker file-1 (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (5) docker file.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (5) docker file (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (4).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (4).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (4) 1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (3).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (3).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2)-2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2)-2 (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2)-1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2)-1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2)-1 (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2)-1 (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2) flutter-2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2) flutter-2 (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2) flutter-1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2) flutter-1 (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2) flutter.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2) flutter (2).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2) flutter (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2) (4).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2) (3).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2) (2).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2) (2).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2) (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (2) (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (1)-3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (1)-3 (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (1)-2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (1)-2 (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (1)-1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (1)-1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\client_secret_451258727340-urdaj9h2e8t2sjf46k8a3c1fpcplade3.apps.googleusercontent.com.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\BUG- as_op not pickled, making parallel SMC.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\BUG- as_op not pickled, making parallel SMC (2).png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\BUG- as_op not pickled, making parallel SMC (1).png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\BitLocker Recovery Key 889401FD-DBFD-4995-932C-2E05A040E116.TXT||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\badge.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\badge (3).svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\badge (2).svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\badge (1).svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\b22a6b49-1ff0-11f0-afc9-582429a7b0d8.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Autosync_20250318_094226-1.backup||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Autosync_20250318_094226-1 (1).backup||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Autosync_20250318_094226.backup||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Autosync_20250318_094226 (1).backup||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Another copy of Drawing with LLMs - Getting Started with DeepSeek 1||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Another copy of Drawing with LLMs - Getting Started with DeepSeek (1)||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Another copy of Drawing with LLMs - Getting Started with DeepSeek||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Another copy of Alien_House_Music_App_Design.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Another copy of Alien_House_Music_App_Design 1.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\analytics_log_event.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Analytics.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\All categories Extensions - Visual Studio Code.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\ALIEN-HOUSE.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\AlienHouse Music \u00B7 Issue #245632 \u00B7.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Alien_House_Music_App_Design.ipynb - Colab.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Alien_House_Music_App_Design.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Alien House Music App Design 1||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Alien House Music App Design (1)||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Alien House Music App Design||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console-1 (1)||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console-1||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Alien house music  Project settings  General  Firebase console||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\ALIEN HOUSE MUSIC - Project IDX-1 (1)||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\ALIEN HOUSE MUSIC - Project IDX-1||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\ALIEN HOUSE MUSIC - Project IDX (4)||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\ALIEN HOUSE MUSIC - Project IDX (3)||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\ALIEN HOUSE MUSIC - Project IDX (2)||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\ALIEN HOUSE MUSIC - Project IDX (1)||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\ALIEN HOUSE MUSIC - Project IDX||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\alarm.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\AIEN HOUSE MUSIC App Inquiry||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\AHM-1 1||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\AHM-1||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Activity.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Actions \u00B7 microsoft-vscode-discussions.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Achieve Success with Resilience and Innovation.ics||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\481032573.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\538766bd9573a21e.uid||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\26ac4cd439f75552.uid||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\23 Apr 2025 919 PM.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\1st (1127).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\-1.Latest Google AI Studio topics - Google AI Developers Forum||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\1.84.0\u0027||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\-1 (1).Latest Google AI Studio topics - Google AI Developers Forum||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\[project].txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\.vsconfig||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\.snapshots.code-workspace||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\.Latest Google AI Studio topics - Google AI Developers Forum||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers-1 (1)||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers-1||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers (1)||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\# my-awesome-package.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\workspace.code-workspace||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\workspace 111.code-workspace||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\workspace (2).code-workspace||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\wikipedia-structured-contents-metadata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\wifiConfig.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 49,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Code Optimizer",
+              "DocumentMoniker": "I:\\Code Optimizer",
+              "ToolTip": "I:\\Code Optimizer",
+              "ViewState": "AgIAADkAAAAAAAAAAABBwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:13.173Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "code Python library (1) (2).py",
+              "DocumentMoniker": "I:\\code Python library (1) (2).py",
+              "ToolTip": "I:\\code Python library (1) (2).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:13.839Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "code Python library (1).py",
+              "DocumentMoniker": "I:\\code Python library (1).py",
+              "ToolTip": "I:\\code Python library (1).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:14.092Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "code Python library (1)-1 (1).py",
+              "DocumentMoniker": "I:\\code Python library (1)-1 (1).py",
+              "ToolTip": "I:\\code Python library (1)-1 (1).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:14.367Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "code Python library (1) (1).py",
+              "DocumentMoniker": "I:\\code Python library (1) (1).py",
+              "ToolTip": "I:\\code Python library (1) (1).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:13.648Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "code Python library (1)-1.py",
+              "DocumentMoniker": "I:\\code Python library (1)-1.py",
+              "ToolTip": "I:\\code Python library (1)-1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:14.758Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "code flutter (1).py",
+              "DocumentMoniker": "I:\\code flutter (1).py",
+              "ToolTip": "I:\\code flutter (1).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:06.601Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "code flutter calling API.txt",
+              "DocumentMoniker": "I:\\code flutter calling API.txt",
+              "ToolTip": "I:\\code flutter calling API.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:09.111Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "code flutter calling API (1).txt",
+              "DocumentMoniker": "I:\\code flutter calling API (1).txt",
+              "ToolTip": "I:\\code flutter calling API (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:07.188Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "code flutter calling API-1 (1).txt",
+              "DocumentMoniker": "I:\\code flutter calling API-1 (1).txt",
+              "ToolTip": "I:\\code flutter calling API-1 (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:10.205Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "code flutter calling API-1.txt",
+              "DocumentMoniker": "I:\\code flutter calling API-1.txt",
+              "ToolTip": "I:\\code flutter calling API-1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:10.975Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "code flutter-1 (1).py",
+              "DocumentMoniker": "I:\\code flutter-1 (1).py",
+              "ToolTip": "I:\\code flutter-1 (1).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:12.617Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "code flutter.py",
+              "DocumentMoniker": "I:\\code flutter.py",
+              "ToolTip": "I:\\code flutter.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:11.956Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "code Python library (1)-2 (1).py",
+              "DocumentMoniker": "I:\\code Python library (1)-2 (1).py",
+              "ToolTip": "I:\\code Python library (1)-2 (1).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:15.003Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "code backend (1).py",
+              "DocumentMoniker": "I:\\code backend (1).py",
+              "ToolTip": "I:\\code backend (1).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:05.83Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "code backend.py",
+              "DocumentMoniker": "I:\\code backend.py",
+              "ToolTip": "I:\\code backend.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:06.141Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "code backend (2).py",
+              "DocumentMoniker": "I:\\code backend (2).py",
+              "ToolTip": "I:\\code backend (2).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:05.988Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "code API key  Google AI Studio.txt",
+              "DocumentMoniker": "I:\\code API key  Google AI Studio.txt",
+              "ToolTip": "I:\\code API key  Google AI Studio.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:05.666Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "code backend-1.py",
+              "DocumentMoniker": "I:\\code backend-1.py",
+              "ToolTip": "I:\\code backend-1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:06.445Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "code flutter (2).py",
+              "DocumentMoniker": "I:\\code flutter (2).py",
+              "ToolTip": "I:\\code flutter (2).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:06.76Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "code Python library (1)-2.py",
+              "DocumentMoniker": "I:\\code Python library (1)-2.py",
+              "ToolTip": "I:\\code Python library (1)-2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:15.215Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "code (30).txt",
+              "DocumentMoniker": "I:\\code (30).txt",
+              "ToolTip": "I:\\code (30).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:04.691Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "code (33).txt",
+              "DocumentMoniker": "I:\\code (33).txt",
+              "ToolTip": "I:\\code (33).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:05.118Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "code (32).txt",
+              "DocumentMoniker": "I:\\code (32).txt",
+              "ToolTip": "I:\\code (32).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:04.973Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "code (34).txt",
+              "DocumentMoniker": "I:\\code (34).txt",
+              "ToolTip": "I:\\code (34).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:05.264Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "code (29).txt",
+              "DocumentMoniker": "I:\\code (29).txt",
+              "ToolTip": "I:\\code (29).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:04.539Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "code backend-1 (1).py",
+              "DocumentMoniker": "I:\\code backend-1 (1).py",
+              "ToolTip": "I:\\code backend-1 (1).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:06.292Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "code.py",
+              "DocumentMoniker": "I:\\code.py",
+              "ToolTip": "I:\\code.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:15.7Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "code-1 (1).py",
+              "DocumentMoniker": "I:\\code-1 (1).py",
+              "ToolTip": "I:\\code-1 (1).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:16.786Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "code-1.py",
+              "DocumentMoniker": "I:\\code-1.py",
+              "ToolTip": "I:\\code-1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:17.231Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "code-1 (1).txt",
+              "DocumentMoniker": "I:\\code-1 (1).txt",
+              "ToolTip": "I:\\code-1 (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:16.954Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "code-2 (1).txt",
+              "DocumentMoniker": "I:\\code-2 (1).txt",
+              "ToolTip": "I:\\code-2 (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:18.213Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "code-2 (1).py",
+              "DocumentMoniker": "I:\\code-2 (1).py",
+              "ToolTip": "I:\\code-2 (1).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:17.786Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "code-2.txt",
+              "DocumentMoniker": "I:\\code-2.txt",
+              "ToolTip": "I:\\code-2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:18.689Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "code-2.py",
+              "DocumentMoniker": "I:\\code-2.py",
+              "ToolTip": "I:\\code-2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:18.538Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "code-3.py",
+              "DocumentMoniker": "I:\\code-3.py",
+              "ToolTip": "I:\\code-3.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:19.323Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "code-3 (1).txt",
+              "DocumentMoniker": "I:\\code-3 (1).txt",
+              "ToolTip": "I:\\code-3 (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:19.084Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Colin Kemp - Confluence",
+              "DocumentMoniker": "I:\\Colin Kemp - Confluence",
+              "ToolTip": "I:\\Colin Kemp - Confluence",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:19.854Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Colin_Kemp.vcf",
+              "DocumentMoniker": "I:\\Colin_Kemp.vcf",
+              "ToolTip": "I:\\Colin_Kemp.vcf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:20.218Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "code-3.txt",
+              "DocumentMoniker": "I:\\code-3.txt",
+              "ToolTip": "I:\\code-3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:19.51Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "com.custom.mac_os.authentication.authenticationSdk-0.0.1 (2).code-workspace",
+              "DocumentMoniker": "I:\\com.custom.mac_os.authentication.authenticationSdk-0.0.1 (2).code-workspace",
+              "ToolTip": "I:\\com.custom.mac_os.authentication.authenticationSdk-0.0.1 (2).code-workspace",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:20.769Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Comparing.png -  [English (United Kingdom)] - PNG [1078x3618, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\Comparing.png",
+              "ToolTip": "I:\\Comparing.png -  [English (United Kingdom)] - PNG [1078x3618, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:31:29.386Z",
+              "IsPinned": true,
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1078x3618, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud",
+              "DocumentMoniker": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud",
+              "ToolTip": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:30.111Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud (1)",
+              "DocumentMoniker": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud (1)",
+              "ToolTip": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud (1)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:30.464Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud-1",
+              "DocumentMoniker": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud-1",
+              "ToolTip": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud-1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:31.099Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud-1 (1)",
+              "DocumentMoniker": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud-1 (1)",
+              "ToolTip": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud-1 (1)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:31.431Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Copilot Digital Summit_ Innovate with AI 1.ics",
+              "DocumentMoniker": "I:\\Copilot Digital Summit_ Innovate with AI 1.ics",
+              "ToolTip": "I:\\Copilot Digital Summit_ Innovate with AI 1.ics",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:32.445Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Copilot Digital Summit_ Innovate with AI 2.ics",
+              "DocumentMoniker": "I:\\Copilot Digital Summit_ Innovate with AI 2.ics",
+              "ToolTip": "I:\\Copilot Digital Summit_ Innovate with AI 2.ics",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:32.809Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Copilot Digital Summit_ Innovate with AI.ics",
+              "DocumentMoniker": "I:\\Copilot Digital Summit_ Innovate with AI.ics",
+              "ToolTip": "I:\\Copilot Digital Summit_ Innovate with AI.ics",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:33.77Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Copy of AHM-1",
+              "DocumentMoniker": "I:\\Copy of AHM-1",
+              "ToolTip": "I:\\Copy of AHM-1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:33.951Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "code (14).txt",
+              "DocumentMoniker": "I:\\code (14).txt",
+              "ToolTip": "I:\\code (14).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:01.889Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "code (13).txt",
+              "DocumentMoniker": "I:\\code (13).txt",
+              "ToolTip": "I:\\code (13).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:01.617Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "code (16).txt",
+              "DocumentMoniker": "I:\\code (16).txt",
+              "ToolTip": "I:\\code (16).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:02.375Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "code (15).txt",
+              "DocumentMoniker": "I:\\code (15).txt",
+              "ToolTip": "I:\\code (15).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:02.075Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "code (18).txt",
+              "DocumentMoniker": "I:\\code (18).txt",
+              "ToolTip": "I:\\code (18).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:03.103Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "code (17).txt",
+              "DocumentMoniker": "I:\\code (17).txt",
+              "ToolTip": "I:\\code (17).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:02.815Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "code (21).txt",
+              "DocumentMoniker": "I:\\code (21).txt",
+              "ToolTip": "I:\\code (21).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:03.909Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "code (20).txt",
+              "DocumentMoniker": "I:\\code (20).txt",
+              "ToolTip": "I:\\code (20).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:03.655Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "code (19).txt",
+              "DocumentMoniker": "I:\\code (19).txt",
+              "ToolTip": "I:\\code (19).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:03.453Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "code (22).txt",
+              "DocumentMoniker": "I:\\code (22).txt",
+              "ToolTip": "I:\\code (22).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:04.108Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "code (12).txt",
+              "DocumentMoniker": "I:\\code (12).txt",
+              "ToolTip": "I:\\code (12).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:01.41Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "code.txt",
+              "DocumentMoniker": "I:\\code.txt",
+              "ToolTip": "I:\\code.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:16.198Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Copy of Alien_House_Music_App_Design.ipynb",
+              "DocumentMoniker": "I:\\Copy of Alien_House_Music_App_Design.ipynb",
+              "ToolTip": "I:\\Copy of Alien_House_Music_App_Design.ipynb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:34.25Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Copy of Alien_House_Music_App_Design.ipynb -.png -  [English (United Kingdom)] - PNG [686x510, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\Copy of Alien_House_Music_App_Design.ipynb -.png",
+              "ToolTip": "I:\\Copy of Alien_House_Music_App_Design.ipynb -.png -  [English (United Kingdom)] - PNG [686x510, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:31:34.947Z",
+              "IsPinned": true,
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [686x510, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Copy of Code_Execution (1).ipynb - Colab",
+              "DocumentMoniker": "I:\\Copy of Code_Execution (1).ipynb - Colab",
+              "ToolTip": "I:\\Copy of Code_Execution (1).ipynb - Colab",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:35.167Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Copy of Code_Execution.ipynb - Colab",
+              "DocumentMoniker": "I:\\Copy of Code_Execution.ipynb - Colab",
+              "ToolTip": "I:\\Copy of Code_Execution.ipynb - Colab",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:35.742Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Copy of Code_Execution-1 (1).ipynb - Colab",
+              "DocumentMoniker": "I:\\Copy of Code_Execution-1 (1).ipynb - Colab",
+              "ToolTip": "I:\\Copy of Code_Execution-1 (1).ipynb - Colab",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:35.902Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Copy of Code_Execution-1.ipynb - Colab",
+              "DocumentMoniker": "I:\\Copy of Code_Execution-1.ipynb - Colab",
+              "ToolTip": "I:\\Copy of Code_Execution-1.ipynb - Colab",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:36.156Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Copy of Code_Execution-2 (1).ipynb - Colab",
+              "DocumentMoniker": "I:\\Copy of Code_Execution-2 (1).ipynb - Colab",
+              "ToolTip": "I:\\Copy of Code_Execution-2 (1).ipynb - Colab",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:37.18Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Copy of Code_Execution-2.ipynb - Colab",
+              "DocumentMoniker": "I:\\Copy of Code_Execution-2.ipynb - Colab",
+              "ToolTip": "I:\\Copy of Code_Execution-2.ipynb - Colab",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:37.345Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Copy of Drawing with LLMs - Getting Started with DeepSeek",
+              "DocumentMoniker": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek",
+              "ToolTip": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:37.524Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Copy of Drawing with LLMs - Getting Started with DeepSeek (1)",
+              "DocumentMoniker": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek (1)",
+              "ToolTip": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek (1)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:38.12Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Copy of Drawing with LLMs - Getting Started with DeepSeek 1",
+              "DocumentMoniker": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek 1",
+              "ToolTip": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek 1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:38.449Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Copy of Drawing with LLMs - Getting Started with DeepSeek 2",
+              "DocumentMoniker": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek 2",
+              "ToolTip": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek 2",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:39.009Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Copy of Drawing with LLMs - Getting Started with DeepSeek 3",
+              "DocumentMoniker": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek 3",
+              "ToolTip": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek 3",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:39.338Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Copy of Gemma3_1b_fine_tune.ipynb",
+              "DocumentMoniker": "I:\\Copy of Gemma3_1b_fine_tune.ipynb",
+              "ToolTip": "I:\\Copy of Gemma3_1b_fine_tune.ipynb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:39.909Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Copy of Gemma3_1b_fine_tune.ipynb - Colab (1).png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\Copy of Gemma3_1b_fine_tune.ipynb - Colab (1).png",
+              "ToolTip": "I:\\Copy of Gemma3_1b_fine_tune.ipynb - Colab (1).png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:31:40.266Z",
+              "IsPinned": true,
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Copy of Gemma3_1b_fine_tune.ipynb - Colab.png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\Copy of Gemma3_1b_fine_tune.ipynb - Colab.png",
+              "ToolTip": "I:\\Copy of Gemma3_1b_fine_tune.ipynb - Colab.png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:31:40.458Z",
+              "IsPinned": true,
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Copy of MediaPipe Model Maker Image Classifier Demo (1).ipynb",
+              "DocumentMoniker": "I:\\Copy of MediaPipe Model Maker Image Classifier Demo (1).ipynb",
+              "ToolTip": "I:\\Copy of MediaPipe Model Maker Image Classifier Demo (1).ipynb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:40.611Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Copy of MediaPipe Model Maker Image Classifier Demo.ipynb",
+              "DocumentMoniker": "I:\\Copy of MediaPipe Model Maker Image Classifier Demo.ipynb",
+              "ToolTip": "I:\\Copy of MediaPipe Model Maker Image Classifier Demo.ipynb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:40.889Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Copy of notebookfa2a062410",
+              "DocumentMoniker": "I:\\Copy of notebookfa2a062410",
+              "ToolTip": "I:\\Copy of notebookfa2a062410",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:41.213Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Copy of notebookfa2a062410 (2)",
+              "DocumentMoniker": "I:\\Copy of notebookfa2a062410 (2)",
+              "ToolTip": "I:\\Copy of notebookfa2a062410 (2)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:41.407Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Copy of notebookfa2a062410 1",
+              "DocumentMoniker": "I:\\Copy of notebookfa2a062410 1",
+              "ToolTip": "I:\\Copy of notebookfa2a062410 1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:41.609Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "package.json",
+              "DocumentMoniker": "I:\\music-app\\package.json",
+              "ToolTip": "I:\\music-app\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-14T09:39:36.946Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "code (31).txt",
+              "DocumentMoniker": "I:\\code (31).txt",
+              "ToolTip": "I:\\code (31).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:04.834Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "code.sh",
+              "DocumentMoniker": "I:\\code.sh",
+              "ToolTip": "I:\\code.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-06-13T14:31:15.953Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "code (35).txt",
+              "DocumentMoniker": "I:\\code (35).txt",
+              "ToolTip": "I:\\code (35).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:05.519Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "code-1.txt",
+              "DocumentMoniker": "I:\\code-1.txt",
+              "ToolTip": "I:\\code-1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:17.553Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "code-3 (1).py",
+              "DocumentMoniker": "I:\\code-3 (1).py",
+              "ToolTip": "I:\\code-3 (1).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:18.862Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "code (8).txt",
+              "DocumentMoniker": "I:\\code (8).txt",
+              "ToolTip": "I:\\code (8).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:00.381Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "code (7).txt",
+              "DocumentMoniker": "I:\\code (7).txt",
+              "ToolTip": "I:\\code (7).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:00.072Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "code (9).txt",
+              "DocumentMoniker": "I:\\code (9).txt",
+              "ToolTip": "I:\\code (9).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:00.623Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "code (10).txt",
+              "DocumentMoniker": "I:\\code (10).txt",
+              "ToolTip": "I:\\code (10).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:00.826Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "code (11).txt",
+              "DocumentMoniker": "I:\\code (11).txt",
+              "ToolTip": "I:\\code (11).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:31:01.166Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "colin-kemp.png -  [English (United Kingdom)] - PNG [512x512, 24 bit, PNG]",
+              "DocumentMoniker": "I:\\colin-kemp.png",
+              "ToolTip": "I:\\colin-kemp.png -  [English (United Kingdom)] - PNG [512x512, 24 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:31:20.486Z",
+              "IsPinned": true,
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [512x512, 24 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "code (7).py",
+              "DocumentMoniker": "I:\\code (7).py",
+              "ToolTip": "I:\\code (7).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:30:59.592Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "code flutter-1.py",
+              "DocumentMoniker": "I:\\code flutter-1.py",
+              "ToolTip": "I:\\code flutter-1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:12.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Credits \u2013 My Billing Account.csv",
+              "DocumentMoniker": "I:\\Credits \u2013 My Billing Account.csv",
+              "ToolTip": "I:\\Credits \u2013 My Billing Account.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-06-13T14:31:43.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Created using Colab \u00B7 teakingbeatsxr-ALIEN.png -  [English (United Kingdom)] - PNG [1023x8303, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\Created using Colab \u00B7 teakingbeatsxr-ALIEN.png",
+              "ToolTip": "I:\\Created using Colab \u00B7 teakingbeatsxr-ALIEN.png -  [English (United Kingdom)] - PNG [1023x8303, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:31:42.946Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1023x8303, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Core library desugaring crashing app after.png -  [English (United Kingdom)] - PNG [960x503, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\Core library desugaring crashing app after.png",
+              "ToolTip": "I:\\Core library desugaring crashing app after.png -  [English (United Kingdom)] - PNG [960x503, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:31:42.628Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [960x503, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Copy of notebookfcb88ba979 1",
+              "DocumentMoniker": "I:\\Copy of notebookfcb88ba979 1",
+              "ToolTip": "I:\\Copy of notebookfcb88ba979 1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:42.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Copy of notebookfcb88ba979 (2)",
+              "DocumentMoniker": "I:\\Copy of notebookfcb88ba979 (2)",
+              "ToolTip": "I:\\Copy of notebookfcb88ba979 (2)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:42.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Copy of notebookfcb88ba979",
+              "DocumentMoniker": "I:\\Copy of notebookfcb88ba979",
+              "ToolTip": "I:\\Copy of notebookfcb88ba979",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:31:41.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "code (6).txt",
+              "DocumentMoniker": "I:\\code (6).txt",
+              "ToolTip": "I:\\code (6).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:59.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "code (6).py",
+              "DocumentMoniker": "I:\\code (6).py",
+              "ToolTip": "I:\\code (6).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:30:59.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "code (5).txt",
+              "DocumentMoniker": "I:\\code (5).txt",
+              "ToolTip": "I:\\code (5).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:57.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "code (5).py",
+              "DocumentMoniker": "I:\\code (5).py",
+              "ToolTip": "I:\\code (5).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:30:57.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "code (5) docker file-1.txt",
+              "DocumentMoniker": "I:\\code (5) docker file-1.txt",
+              "ToolTip": "I:\\code (5) docker file-1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:56.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "code (5) docker file-1 (1).txt",
+              "DocumentMoniker": "I:\\code (5) docker file-1 (1).txt",
+              "ToolTip": "I:\\code (5) docker file-1 (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:56.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "code (5) docker file.txt",
+              "DocumentMoniker": "I:\\code (5) docker file.txt",
+              "ToolTip": "I:\\code (5) docker file.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:55.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "code (5) docker file (1).txt",
+              "DocumentMoniker": "I:\\code (5) docker file (1).txt",
+              "ToolTip": "I:\\code (5) docker file (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:55.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "code (4).txt",
+              "DocumentMoniker": "I:\\code (4).txt",
+              "ToolTip": "I:\\code (4).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:54.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "code (4).py",
+              "DocumentMoniker": "I:\\code (4).py",
+              "ToolTip": "I:\\code (4).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:30:54.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "code (4) 1.py",
+              "DocumentMoniker": "I:\\code (4) 1.py",
+              "ToolTip": "I:\\code (4) 1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:30:54.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "code (3).txt",
+              "DocumentMoniker": "I:\\code (3).txt",
+              "ToolTip": "I:\\code (3).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:53.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "code (3).py",
+              "DocumentMoniker": "I:\\code (3).py",
+              "ToolTip": "I:\\code (3).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:30:53.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "code (2)-2.txt",
+              "DocumentMoniker": "I:\\code (2)-2.txt",
+              "ToolTip": "I:\\code (2)-2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:53.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "code (2)-2 (1).txt",
+              "DocumentMoniker": "I:\\code (2)-2 (1).txt",
+              "ToolTip": "I:\\code (2)-2 (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:53.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "code (2)-1.txt",
+              "DocumentMoniker": "I:\\code (2)-1.txt",
+              "ToolTip": "I:\\code (2)-1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:53.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "code (2)-1.py",
+              "DocumentMoniker": "I:\\code (2)-1.py",
+              "ToolTip": "I:\\code (2)-1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:30:53.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "code (2)-1 (1).txt",
+              "DocumentMoniker": "I:\\code (2)-1 (1).txt",
+              "ToolTip": "I:\\code (2)-1 (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:53.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "code (2)-1 (1).py",
+              "DocumentMoniker": "I:\\code (2)-1 (1).py",
+              "ToolTip": "I:\\code (2)-1 (1).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:30:52.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "code (2).txt",
+              "DocumentMoniker": "I:\\code (2).txt",
+              "ToolTip": "I:\\code (2).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:52.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "code (2).py",
+              "DocumentMoniker": "I:\\code (2).py",
+              "ToolTip": "I:\\code (2).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:30:52.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "code (2) flutter-2.txt",
+              "DocumentMoniker": "I:\\code (2) flutter-2.txt",
+              "ToolTip": "I:\\code (2) flutter-2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:52.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "code (2) flutter-2 (1).txt",
+              "DocumentMoniker": "I:\\code (2) flutter-2 (1).txt",
+              "ToolTip": "I:\\code (2) flutter-2 (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:52.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "code (2) flutter-1.txt",
+              "DocumentMoniker": "I:\\code (2) flutter-1.txt",
+              "ToolTip": "I:\\code (2) flutter-1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:51.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "code (2) flutter-1 (1).txt",
+              "DocumentMoniker": "I:\\code (2) flutter-1 (1).txt",
+              "ToolTip": "I:\\code (2) flutter-1 (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:51.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "code (2) flutter.txt",
+              "DocumentMoniker": "I:\\code (2) flutter.txt",
+              "ToolTip": "I:\\code (2) flutter.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:51.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "code (2) flutter (2).txt",
+              "DocumentMoniker": "I:\\code (2) flutter (2).txt",
+              "ToolTip": "I:\\code (2) flutter (2).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:51.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "code (2) flutter (1).txt",
+              "DocumentMoniker": "I:\\code (2) flutter (1).txt",
+              "ToolTip": "I:\\code (2) flutter (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:51.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "code (2) (4).txt",
+              "DocumentMoniker": "I:\\code (2) (4).txt",
+              "ToolTip": "I:\\code (2) (4).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:51.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "code (2) (3).txt",
+              "DocumentMoniker": "I:\\code (2) (3).txt",
+              "ToolTip": "I:\\code (2) (3).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:51.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "code (2) (2).txt",
+              "DocumentMoniker": "I:\\code (2) (2).txt",
+              "ToolTip": "I:\\code (2) (2).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:50.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "code (2) (2).py",
+              "DocumentMoniker": "I:\\code (2) (2).py",
+              "ToolTip": "I:\\code (2) (2).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:30:50.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "code (2) (1).txt",
+              "DocumentMoniker": "I:\\code (2) (1).txt",
+              "ToolTip": "I:\\code (2) (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:50.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "code (2) (1).py",
+              "DocumentMoniker": "I:\\code (2) (1).py",
+              "ToolTip": "I:\\code (2) (1).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:30:50.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "code (1)-3.txt",
+              "DocumentMoniker": "I:\\code (1)-3.txt",
+              "ToolTip": "I:\\code (1)-3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:50.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "code (1)-3 (1).txt",
+              "DocumentMoniker": "I:\\code (1)-3 (1).txt",
+              "ToolTip": "I:\\code (1)-3 (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:49.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "code (1)-2.txt",
+              "DocumentMoniker": "I:\\code (1)-2.txt",
+              "ToolTip": "I:\\code (1)-2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:49.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "code (1)-2 (1).txt",
+              "DocumentMoniker": "I:\\code (1)-2 (1).txt",
+              "ToolTip": "I:\\code (1)-2 (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:49.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "code (1)-1.txt",
+              "DocumentMoniker": "I:\\code (1)-1.txt",
+              "ToolTip": "I:\\code (1)-1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:48.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "code (1)-1.py",
+              "DocumentMoniker": "I:\\code (1)-1.py",
+              "ToolTip": "I:\\code (1)-1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:30:48.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "code (1).txt",
+              "DocumentMoniker": "I:\\code (1).txt",
+              "ToolTip": "I:\\code (1).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:48.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 144,
+              "Title": "code (1).py",
+              "DocumentMoniker": "I:\\code (1).py",
+              "ToolTip": "I:\\code (1).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:30:48.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 145,
+              "Title": "client_secret_451258727340-urdaj9h2e8t2sjf46k8a3c1fpcplade3.apps.googleusercontent.com.json",
+              "DocumentMoniker": "I:\\client_secret_451258727340-urdaj9h2e8t2sjf46k8a3c1fpcplade3.apps.googleusercontent.com.json",
+              "ToolTip": "I:\\client_secret_451258727340-urdaj9h2e8t2sjf46k8a3c1fpcplade3.apps.googleusercontent.com.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T14:30:47.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 146,
+              "Title": "BUG- as_op not pickled, making parallel SMC.png -  [English (United Kingdom)] - PNG [1280x56, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\BUG- as_op not pickled, making parallel SMC.png",
+              "ToolTip": "I:\\BUG- as_op not pickled, making parallel SMC.png -  [English (United Kingdom)] - PNG [1280x56, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:30:47.607Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1280x56, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 147,
+              "Title": "BUG- as_op not pickled, making parallel SMC (2).png -  [English (United Kingdom)] - PNG [1280x56, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\BUG- as_op not pickled, making parallel SMC (2).png",
+              "ToolTip": "I:\\BUG- as_op not pickled, making parallel SMC (2).png -  [English (United Kingdom)] - PNG [1280x56, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:30:47.295Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1280x56, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 148,
+              "Title": "BUG- as_op not pickled, making parallel SMC (1).png -  [English (United Kingdom)] - PNG [1280x56, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\BUG- as_op not pickled, making parallel SMC (1).png",
+              "ToolTip": "I:\\BUG- as_op not pickled, making parallel SMC (1).png -  [English (United Kingdom)] - PNG [1280x56, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:30:46.924Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1280x56, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 149,
+              "Title": "BitLocker Recovery Key 889401FD-DBFD-4995-932C-2E05A040E116.TXT",
+              "DocumentMoniker": "I:\\BitLocker Recovery Key 889401FD-DBFD-4995-932C-2E05A040E116.TXT",
+              "ToolTip": "I:\\BitLocker Recovery Key 889401FD-DBFD-4995-932C-2E05A040E116.TXT [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:44.861Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 150,
+              "Title": "badge.svg",
+              "DocumentMoniker": "I:\\badge.svg",
+              "ToolTip": "I:\\badge.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-13T14:30:44.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 151,
+              "Title": "badge (3).svg",
+              "DocumentMoniker": "I:\\badge (3).svg",
+              "ToolTip": "I:\\badge (3).svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-13T14:30:44.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 152,
+              "Title": "badge (2).svg",
+              "DocumentMoniker": "I:\\badge (2).svg",
+              "ToolTip": "I:\\badge (2).svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-13T14:30:43.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 153,
+              "Title": "badge (1).svg",
+              "DocumentMoniker": "I:\\badge (1).svg",
+              "ToolTip": "I:\\badge (1).svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-13T14:30:43.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 154,
+              "Title": "b22a6b49-1ff0-11f0-afc9-582429a7b0d8.csv",
+              "DocumentMoniker": "I:\\b22a6b49-1ff0-11f0-afc9-582429a7b0d8.csv",
+              "ToolTip": "I:\\b22a6b49-1ff0-11f0-afc9-582429a7b0d8.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-06-13T14:30:42.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 155,
+              "Title": "Autosync_20250318_094226-1.backup",
+              "DocumentMoniker": "I:\\Autosync_20250318_094226-1.backup",
+              "ToolTip": "I:\\Autosync_20250318_094226-1.backup",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:42.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 156,
+              "Title": "Autosync_20250318_094226-1 (1).backup",
+              "DocumentMoniker": "I:\\Autosync_20250318_094226-1 (1).backup",
+              "ToolTip": "I:\\Autosync_20250318_094226-1 (1).backup",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:42.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 157,
+              "Title": "Autosync_20250318_094226.backup",
+              "DocumentMoniker": "I:\\Autosync_20250318_094226.backup",
+              "ToolTip": "I:\\Autosync_20250318_094226.backup",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:41.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 158,
+              "Title": "Autosync_20250318_094226 (1).backup",
+              "DocumentMoniker": "I:\\Autosync_20250318_094226 (1).backup",
+              "ToolTip": "I:\\Autosync_20250318_094226 (1).backup",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:41.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 159,
+              "Title": "Another copy of Drawing with LLMs - Getting Started with DeepSeek 1",
+              "DocumentMoniker": "I:\\Another copy of Drawing with LLMs - Getting Started with DeepSeek 1",
+              "ToolTip": "I:\\Another copy of Drawing with LLMs - Getting Started with DeepSeek 1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:34.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 160,
+              "Title": "Another copy of Drawing with LLMs - Getting Started with DeepSeek (1)",
+              "DocumentMoniker": "I:\\Another copy of Drawing with LLMs - Getting Started with DeepSeek (1)",
+              "ToolTip": "I:\\Another copy of Drawing with LLMs - Getting Started with DeepSeek (1)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:33.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 161,
+              "Title": "Another copy of Drawing with LLMs - Getting Started with DeepSeek",
+              "DocumentMoniker": "I:\\Another copy of Drawing with LLMs - Getting Started with DeepSeek",
+              "ToolTip": "I:\\Another copy of Drawing with LLMs - Getting Started with DeepSeek",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:33.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 162,
+              "Title": "Another copy of Alien_House_Music_App_Design.ipynb",
+              "DocumentMoniker": "I:\\Another copy of Alien_House_Music_App_Design.ipynb",
+              "ToolTip": "I:\\Another copy of Alien_House_Music_App_Design.ipynb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:33.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 163,
+              "Title": "Another copy of Alien_House_Music_App_Design 1.ipynb",
+              "DocumentMoniker": "I:\\Another copy of Alien_House_Music_App_Design 1.ipynb",
+              "ToolTip": "I:\\Another copy of Alien_House_Music_App_Design 1.ipynb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:33.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 164,
+              "Title": "analytics_log_event.js",
+              "DocumentMoniker": "I:\\analytics_log_event.js",
+              "ToolTip": "I:\\analytics_log_event.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-13T14:30:31.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 165,
+              "Title": "Analytics.png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\Analytics.png",
+              "ToolTip": "I:\\Analytics.png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:30:31.36Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 166,
+              "Title": "All categories Extensions - Visual Studio Code.png -  [English (United Kingdom)] - PNG [1250x2784, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\All categories Extensions - Visual Studio Code.png",
+              "ToolTip": "I:\\All categories Extensions - Visual Studio Code.png -  [English (United Kingdom)] - PNG [1250x2784, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:30:29.63Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1250x2784, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 167,
+              "Title": "ALIEN-HOUSE.png -  [English (United Kingdom)] - PNG [1265x697, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\ALIEN-HOUSE.png",
+              "ToolTip": "I:\\ALIEN-HOUSE.png -  [English (United Kingdom)] - PNG [1265x697, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:30:28.69Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1265x697, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 168,
+              "Title": "AlienHouse Music \u00B7 Issue #245632 \u00B7.png -  [English (United Kingdom)] - PNG [1078x2479, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\AlienHouse Music \u00B7 Issue #245632 \u00B7.png",
+              "ToolTip": "I:\\AlienHouse Music \u00B7 Issue #245632 \u00B7.png -  [English (United Kingdom)] - PNG [1078x2479, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:30:28.471Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1078x2479, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 169,
+              "Title": "Alien_House_Music_App_Design.ipynb - Colab.png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\Alien_House_Music_App_Design.ipynb - Colab.png",
+              "ToolTip": "I:\\Alien_House_Music_App_Design.ipynb - Colab.png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:30:28.214Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 170,
+              "Title": "Alien_House_Music_App_Design.ipynb",
+              "DocumentMoniker": "I:\\Alien_House_Music_App_Design.ipynb",
+              "ToolTip": "I:\\Alien_House_Music_App_Design.ipynb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:28.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 171,
+              "Title": "Alien House Music App Design 1",
+              "DocumentMoniker": "I:\\Alien House Music App Design 1",
+              "ToolTip": "I:\\Alien House Music App Design 1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:27.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 172,
+              "Title": "Alien House Music App Design (1)",
+              "DocumentMoniker": "I:\\Alien House Music App Design (1)",
+              "ToolTip": "I:\\Alien House Music App Design (1)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:27.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 173,
+              "Title": "Alien House Music App Design",
+              "DocumentMoniker": "I:\\Alien House Music App Design",
+              "ToolTip": "I:\\Alien House Music App Design",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:27.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 174,
+              "Title": "Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console-1 (1)",
+              "DocumentMoniker": "I:\\Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console-1 (1)",
+              "ToolTip": "I:\\Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console-1 (1)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:26.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 175,
+              "Title": "Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console-1",
+              "DocumentMoniker": "I:\\Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console-1",
+              "ToolTip": "I:\\Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console-1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:26.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 176,
+              "Title": "Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console",
+              "DocumentMoniker": "I:\\Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console",
+              "ToolTip": "I:\\Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:25.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 177,
+              "Title": "Alien house music  Project settings  General  Firebase console",
+              "DocumentMoniker": "I:\\Alien house music  Project settings  General  Firebase console",
+              "ToolTip": "I:\\Alien house music  Project settings  General  Firebase console",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:25.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 178,
+              "Title": "ALIEN HOUSE MUSIC - Project IDX-1 (1)",
+              "DocumentMoniker": "I:\\ALIEN HOUSE MUSIC - Project IDX-1 (1)",
+              "ToolTip": "I:\\ALIEN HOUSE MUSIC - Project IDX-1 (1)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:24.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 179,
+              "Title": "ALIEN HOUSE MUSIC - Project IDX-1",
+              "DocumentMoniker": "I:\\ALIEN HOUSE MUSIC - Project IDX-1",
+              "ToolTip": "I:\\ALIEN HOUSE MUSIC - Project IDX-1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:24.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 180,
+              "Title": "ALIEN HOUSE MUSIC - Project IDX (4)",
+              "DocumentMoniker": "I:\\ALIEN HOUSE MUSIC - Project IDX (4)",
+              "ToolTip": "I:\\ALIEN HOUSE MUSIC - Project IDX (4)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:23.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 181,
+              "Title": "ALIEN HOUSE MUSIC - Project IDX (3)",
+              "DocumentMoniker": "I:\\ALIEN HOUSE MUSIC - Project IDX (3)",
+              "ToolTip": "I:\\ALIEN HOUSE MUSIC - Project IDX (3)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:23.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 182,
+              "Title": "ALIEN HOUSE MUSIC - Project IDX (2)",
+              "DocumentMoniker": "I:\\ALIEN HOUSE MUSIC - Project IDX (2)",
+              "ToolTip": "I:\\ALIEN HOUSE MUSIC - Project IDX (2)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:22.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 183,
+              "Title": "ALIEN HOUSE MUSIC - Project IDX (1)",
+              "DocumentMoniker": "I:\\ALIEN HOUSE MUSIC - Project IDX (1)",
+              "ToolTip": "I:\\ALIEN HOUSE MUSIC - Project IDX (1)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:22.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 184,
+              "Title": "ALIEN HOUSE MUSIC - Project IDX",
+              "DocumentMoniker": "I:\\ALIEN HOUSE MUSIC - Project IDX",
+              "ToolTip": "I:\\ALIEN HOUSE MUSIC - Project IDX",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:22.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 185,
+              "Title": "alarm.db",
+              "DocumentMoniker": "I:\\alarm.db",
+              "ToolTip": "I:\\alarm.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI8SURBVDhPdVNLT1NBGD3a23gJKaJUwsIEUaMoL2NsGyqxoCYEDRuKi0ZW3WHkL0D8BWqkJsLKQlsX9bGrNhqqRKRutCVp1BhFEiUxVyVx0Ud67/DN3EcvsZ7ck2/uN9/MnDkzswsGYrEY0xgD0zQwippGbabBzPEoORxb5Upl6Nrk5HsxiBeaWFhcZKqqWqxyVmuMx\u002BOsUCiwufn5P3dmI6eMYdhtRLEKh0pRVTlVQZpIkMPtduOs398sSdKSSBBqE5hqKJBovW1B/49Go0ilUihXys0iQZCMKPbMYQ7OrmaRza7C6/PBRxwbC4oe8gGzkYio4bApIPOM9v3oAppa23DpSgiyuw13781ZfRwa1ZqwJuAu86p8Lg//uQA6D7cjt/IKPUcOof/CMNbyearSp6HjEpHjHxMzmSU0NjTgUTKJUCiEJw\u002BT2OtyUT5DKkXJjtPbqYAQGBxEsVhEcHwciUQCl0dHsf5tA1W5CS\u002BWV1AqlcivOlvQZTH09vTi9fJLfF7fgGcggHcfvkBpbEc4HIay/zje5tb\u002Bp0A3kXPi6gSUzR94/CCON3Qaw8da8PzrX4x0HsD3n7/rm1i7BxSJHq8X16em4OnrRvrTL1zscOHpRwVn\u002Brrqmyjugf4JmjjdfQL7lALSz9Locm7hYGuL5ReHTUFNlgAVcVV7ZBlDA/0IjpzHyaMdkOnfXmvzgN9BenGSQ6dTgrMORa1tC9ZzvnnrNm2NjKROvjI/KhGNnFiA2vozZ7gxM01jgW0oG0\u002BFgH6cagAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-13T14:30:22.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 186,
+              "Title": "AIEN HOUSE MUSIC App Inquiry",
+              "DocumentMoniker": "I:\\AIEN HOUSE MUSIC App Inquiry",
+              "ToolTip": "I:\\AIEN HOUSE MUSIC App Inquiry",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:21.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 187,
+              "Title": "AHM-1 1",
+              "DocumentMoniker": "I:\\AHM-1 1",
+              "ToolTip": "I:\\AHM-1 1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:21.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 188,
+              "Title": "AHM-1",
+              "DocumentMoniker": "I:\\AHM-1",
+              "ToolTip": "I:\\AHM-1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:21.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 189,
+              "Title": "Activity.png -  [English (United Kingdom)] - PNG [1280x593, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\Activity.png",
+              "ToolTip": "I:\\Activity.png -  [English (United Kingdom)] - PNG [1280x593, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:30:21.398Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1280x593, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 190,
+              "Title": "Actions \u00B7 microsoft-vscode-discussions.png -  [English (United Kingdom)] - PNG [1078x913, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\Actions \u00B7 microsoft-vscode-discussions.png",
+              "ToolTip": "I:\\Actions \u00B7 microsoft-vscode-discussions.png -  [English (United Kingdom)] - PNG [1078x913, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T14:30:21.114Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1078x913, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 191,
+              "Title": "Achieve Success with Resilience and Innovation.ics",
+              "DocumentMoniker": "I:\\Achieve Success with Resilience and Innovation.ics",
+              "ToolTip": "I:\\Achieve Success with Resilience and Innovation.ics",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:30:20.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 192,
+              "Title": "481032573.json",
+              "DocumentMoniker": "I:\\481032573.json",
+              "ToolTip": "I:\\481032573.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T14:29:44.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 193,
+              "Title": "538766bd9573a21e.uid",
+              "DocumentMoniker": "I:\\538766bd9573a21e.uid",
+              "ToolTip": "I:\\538766bd9573a21e.uid",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:44.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 194,
+              "Title": "26ac4cd439f75552.uid",
+              "DocumentMoniker": "I:\\26ac4cd439f75552.uid",
+              "ToolTip": "I:\\26ac4cd439f75552.uid",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:42.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 195,
+              "Title": "23 Apr 2025 919 PM.txt",
+              "DocumentMoniker": "I:\\23 Apr 2025 919 PM.txt",
+              "ToolTip": "I:\\23 Apr 2025 919 PM.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:29:42.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 196,
+              "Title": "1st (1127).txt",
+              "DocumentMoniker": "I:\\1st (1127).txt",
+              "ToolTip": "I:\\1st (1127).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:29:41.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 197,
+              "Title": "-1.Latest Google AI Studio topics - Google AI Developers Forum",
+              "DocumentMoniker": "I:\\-1.Latest Google AI Studio topics - Google AI Developers Forum",
+              "ToolTip": "I:\\-1.Latest Google AI Studio topics - Google AI Developers Forum",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:41.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 198,
+              "Title": "1.84.0\u0027",
+              "DocumentMoniker": "I:\\1.84.0\u0027",
+              "ToolTip": "I:\\1.84.0\u0027",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:41.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 199,
+              "Title": "-1 (1).Latest Google AI Studio topics - Google AI Developers Forum",
+              "DocumentMoniker": "I:\\-1 (1).Latest Google AI Studio topics - Google AI Developers Forum",
+              "ToolTip": "I:\\-1 (1).Latest Google AI Studio topics - Google AI Developers Forum",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:40.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 200,
+              "Title": "[project].txt",
+              "DocumentMoniker": "I:\\[project].txt",
+              "ToolTip": "I:\\[project].txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:29:40.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 201,
+              "Title": ".vsconfig",
+              "DocumentMoniker": "I:\\.vsconfig",
+              "ToolTip": "I:\\.vsconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:39.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 202,
+              "Title": ".snapshots.code-workspace",
+              "DocumentMoniker": "I:\\.snapshots.code-workspace",
+              "ToolTip": "I:\\.snapshots.code-workspace",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:39.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 203,
+              "Title": ".Latest Google AI Studio topics - Google AI Developers Forum",
+              "DocumentMoniker": "I:\\.Latest Google AI Studio topics - Google AI Developers Forum",
+              "ToolTip": "I:\\.Latest Google AI Studio topics - Google AI Developers Forum",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:39.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 204,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "I:\\.dockerignore",
+              "ToolTip": "I:\\.dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:39.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 205,
+              "Title": "#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers-1 (1)",
+              "DocumentMoniker": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers-1 (1)",
+              "ToolTip": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers-1 (1)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:39.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 206,
+              "Title": "#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers-1",
+              "DocumentMoniker": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers-1",
+              "ToolTip": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers-1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:39.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 207,
+              "Title": "#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers (1)",
+              "DocumentMoniker": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers (1)",
+              "ToolTip": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers (1)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:38.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 208,
+              "Title": "#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers",
+              "DocumentMoniker": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers",
+              "ToolTip": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:38.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 209,
+              "Title": "# my-awesome-package.txt",
+              "DocumentMoniker": "I:\\# my-awesome-package.txt",
+              "ToolTip": "I:\\# my-awesome-package.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:29:38.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 210,
+              "Title": "workspace.code-workspace",
+              "DocumentMoniker": "I:\\workspace.code-workspace",
+              "ToolTip": "I:\\workspace.code-workspace",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:38.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 211,
+              "Title": "workspace 111.code-workspace",
+              "DocumentMoniker": "I:\\workspace 111.code-workspace",
+              "ToolTip": "I:\\workspace 111.code-workspace",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:37.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 212,
+              "Title": "workspace (2).code-workspace",
+              "DocumentMoniker": "I:\\workspace (2).code-workspace",
+              "ToolTip": "I:\\workspace (2).code-workspace",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T14:29:37.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 213,
+              "Title": "wikipedia-structured-contents-metadata.json",
+              "DocumentMoniker": "I:\\wikipedia-structured-contents-metadata.json",
+              "ToolTip": "I:\\wikipedia-structured-contents-metadata.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T14:29:32.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 214,
+              "Title": "wifiConfig.db",
+              "DocumentMoniker": "I:\\wifiConfig.db",
+              "ToolTip": "I:\\wifiConfig.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI8SURBVDhPdVNLT1NBGD3a23gJKaJUwsIEUaMoL2NsGyqxoCYEDRuKi0ZW3WHkL0D8BWqkJsLKQlsX9bGrNhqqRKRutCVp1BhFEiUxVyVx0Ud67/DN3EcvsZ7ck2/uN9/MnDkzswsGYrEY0xgD0zQwippGbabBzPEoORxb5Upl6Nrk5HsxiBeaWFhcZKqqWqxyVmuMx\u002BOsUCiwufn5P3dmI6eMYdhtRLEKh0pRVTlVQZpIkMPtduOs398sSdKSSBBqE5hqKJBovW1B/49Go0ilUihXys0iQZCMKPbMYQ7OrmaRza7C6/PBRxwbC4oe8gGzkYio4bApIPOM9v3oAppa23DpSgiyuw13781ZfRwa1ZqwJuAu86p8Lg//uQA6D7cjt/IKPUcOof/CMNbyearSp6HjEpHjHxMzmSU0NjTgUTKJUCiEJw\u002BT2OtyUT5DKkXJjtPbqYAQGBxEsVhEcHwciUQCl0dHsf5tA1W5CS\u002BWV1AqlcivOlvQZTH09vTi9fJLfF7fgGcggHcfvkBpbEc4HIay/zje5tb\u002Bp0A3kXPi6gSUzR94/CCON3Qaw8da8PzrX4x0HsD3n7/rm1i7BxSJHq8X16em4OnrRvrTL1zscOHpRwVn\u002Brrqmyjugf4JmjjdfQL7lALSz9Locm7hYGuL5ReHTUFNlgAVcVV7ZBlDA/0IjpzHyaMdkOnfXmvzgN9BenGSQ6dTgrMORa1tC9ZzvnnrNm2NjKROvjI/KhGNnFiA2vozZ7gxM01jgW0oG0\u002BFgH6cagAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-13T14:29:31.953Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
