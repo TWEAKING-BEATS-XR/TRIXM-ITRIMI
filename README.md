@@ -3743,3 +3743,7 @@ bool shouldRepaint(covariant CustomPainter oldDelegate) {
 return false;
 }
 }
+<data>
+<Number>42</Number>
+<Text>hello</Text>
+</data>
