@@ -31,6 +31,7 @@
       <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="true" />
       <option name="DEBUG_SANDBOX_SDK" value="false" />
       <symbol_dirs symbol_path="C:\Users\colin\StudioProjects\TRIXMI" />
+      <symbol_dirs symbol_path="C:\Users\colin\OneDrive" />
     </Auto>
     <Hybrid>
       <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
