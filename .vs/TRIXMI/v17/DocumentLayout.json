@@ -3,10 +3,73 @@
   "WorkspaceRootPath": "C:\\Users\\colin\\source\\repos\\TRIXMI\\TRIXMI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of AHM-1||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\README KaggleDataset PANDAS   ALIEN HOUSE MUSIC 4.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Ranch-Hand-Robotics.rde-ros-2-0.0.3.vsix||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\quick-start.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\python setup.py sdist bdist_wheel.py sdist bdist_wheel.py sdist bdist_wheel||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\python -m twine upload --repository test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\python -m twine upload --repository test.1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\python -m twine upload --repository test .1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\python -m build.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\python -m build.1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Python client library - Google Cloud.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\pypa_pip_f7e628.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\pypa_pip_c2404f.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\pypa_pip_6f447c.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\pydot-3.0.4-py3-none-any.whl||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\rest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (6).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\music-app\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\music-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-3 (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Code Optimizer||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Copy of AHM-1||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code API key  Google AI Studio.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
@@ -28,9 +91,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code Python library (1) (2).py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\music-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Colin Kemp - Confluence||{8B382828-6202-11D1-8870-0000F87579D2}"
@@ -150,9 +210,6 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-3 (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code-3 (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -234,9 +291,6 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code backend-1 (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code backend.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code backend (2).py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -310,9 +364,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (7).py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (6).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\code (6).py||{8B382828-6202-11D1-8870-0000F87579D2}"
@@ -655,35 +706,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 49,
+          "SelectedChildIndex": 95,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 21,
               "Title": "Code Optimizer",
               "DocumentMoniker": "I:\\Code Optimizer",
               "ToolTip": "I:\\Code Optimizer",
-              "ViewState": "AgIAADkAAAAAAAAAAABBwDoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAEBVwEoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-06-13T14:31:13.173Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 29,
               "Title": "code Python library (1) (2).py",
               "DocumentMoniker": "I:\\code Python library (1) (2).py",
               "ToolTip": "I:\\code Python library (1) (2).py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-06-13T14:31:13.839Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 84,
               "Title": "code Python library (1).py",
               "DocumentMoniker": "I:\\code Python library (1).py",
               "ToolTip": "I:\\code Python library (1).py",
@@ -694,19 +743,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 28,
               "Title": "code Python library (1)-1 (1).py",
               "DocumentMoniker": "I:\\code Python library (1)-1 (1).py",
               "ToolTip": "I:\\code Python library (1)-1 (1).py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-06-13T14:31:14.367Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 85,
               "Title": "code Python library (1) (1).py",
               "DocumentMoniker": "I:\\code Python library (1) (1).py",
               "ToolTip": "I:\\code Python library (1) (1).py",
@@ -717,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 83,
               "Title": "code Python library (1)-1.py",
               "DocumentMoniker": "I:\\code Python library (1)-1.py",
               "ToolTip": "I:\\code Python library (1)-1.py",
@@ -728,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 93,
               "Title": "code flutter (1).py",
               "DocumentMoniker": "I:\\code flutter (1).py",
               "ToolTip": "I:\\code flutter (1).py",
@@ -739,7 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 90,
               "Title": "code flutter calling API.txt",
               "DocumentMoniker": "I:\\code flutter calling API.txt",
               "ToolTip": "I:\\code flutter calling API.txt",
@@ -750,7 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 91,
               "Title": "code flutter calling API (1).txt",
               "DocumentMoniker": "I:\\code flutter calling API (1).txt",
               "ToolTip": "I:\\code flutter calling API (1).txt",
@@ -761,7 +809,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 89,
               "Title": "code flutter calling API-1 (1).txt",
               "DocumentMoniker": "I:\\code flutter calling API-1 (1).txt",
               "ToolTip": "I:\\code flutter calling API-1 (1).txt",
@@ -772,7 +820,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 88,
               "Title": "code flutter calling API-1.txt",
               "DocumentMoniker": "I:\\code flutter calling API-1.txt",
               "ToolTip": "I:\\code flutter calling API-1.txt",
@@ -783,7 +831,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 86,
               "Title": "code flutter-1 (1).py",
               "DocumentMoniker": "I:\\code flutter-1 (1).py",
               "ToolTip": "I:\\code flutter-1 (1).py",
@@ -794,7 +842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 87,
               "Title": "code flutter.py",
               "DocumentMoniker": "I:\\code flutter.py",
               "ToolTip": "I:\\code flutter.py",
@@ -805,7 +853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 82,
               "Title": "code Python library (1)-2 (1).py",
               "DocumentMoniker": "I:\\code Python library (1)-2 (1).py",
               "ToolTip": "I:\\code Python library (1)-2 (1).py",
@@ -816,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 97,
               "Title": "code backend (1).py",
               "DocumentMoniker": "I:\\code backend (1).py",
               "ToolTip": "I:\\code backend (1).py",
@@ -827,18 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "code backend.py",
-              "DocumentMoniker": "I:\\code backend.py",
-              "ToolTip": "I:\\code backend.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-06-13T14:31:06.141Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 96,
               "Title": "code backend (2).py",
               "DocumentMoniker": "I:\\code backend (2).py",
               "ToolTip": "I:\\code backend (2).py",
@@ -849,19 +886,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 23,
               "Title": "code API key  Google AI Studio.txt",
               "DocumentMoniker": "I:\\code API key  Google AI Studio.txt",
               "ToolTip": "I:\\code API key  Google AI Studio.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-06-13T14:31:05.666Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 94,
               "Title": "code backend-1.py",
               "DocumentMoniker": "I:\\code backend-1.py",
               "ToolTip": "I:\\code backend-1.py",
@@ -872,7 +908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 92,
               "Title": "code flutter (2).py",
               "DocumentMoniker": "I:\\code flutter (2).py",
               "ToolTip": "I:\\code flutter (2).py",
@@ -883,7 +919,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 81,
               "Title": "code Python library (1)-2.py",
               "DocumentMoniker": "I:\\code Python library (1)-2.py",
               "ToolTip": "I:\\code Python library (1)-2.py",
@@ -894,7 +930,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 102,
               "Title": "code (30).txt",
               "DocumentMoniker": "I:\\code (30).txt",
               "ToolTip": "I:\\code (30).txt",
@@ -905,7 +941,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 100,
               "Title": "code (33).txt",
               "DocumentMoniker": "I:\\code (33).txt",
               "ToolTip": "I:\\code (33).txt",
@@ -916,19 +952,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 24,
               "Title": "code (32).txt",
               "DocumentMoniker": "I:\\code (32).txt",
               "ToolTip": "I:\\code (32).txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-06-13T14:31:04.973Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 99,
               "Title": "code (34).txt",
               "DocumentMoniker": "I:\\code (34).txt",
               "ToolTip": "I:\\code (34).txt",
@@ -939,7 +974,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 103,
               "Title": "code (29).txt",
               "DocumentMoniker": "I:\\code (29).txt",
               "ToolTip": "I:\\code (29).txt",
@@ -950,7 +985,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 95,
               "Title": "code backend-1 (1).py",
               "DocumentMoniker": "I:\\code backend-1 (1).py",
               "ToolTip": "I:\\code backend-1 (1).py",
@@ -961,7 +996,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 80,
               "Title": "code.py",
               "DocumentMoniker": "I:\\code.py",
               "ToolTip": "I:\\code.py",
@@ -972,7 +1007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 77,
               "Title": "code-1 (1).py",
               "DocumentMoniker": "I:\\code-1 (1).py",
               "ToolTip": "I:\\code-1 (1).py",
@@ -983,7 +1018,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 75,
               "Title": "code-1.py",
               "DocumentMoniker": "I:\\code-1.py",
               "ToolTip": "I:\\code-1.py",
@@ -994,7 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 76,
               "Title": "code-1 (1).txt",
               "DocumentMoniker": "I:\\code-1 (1).txt",
               "ToolTip": "I:\\code-1 (1).txt",
@@ -1005,7 +1040,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 72,
               "Title": "code-2 (1).txt",
               "DocumentMoniker": "I:\\code-2 (1).txt",
               "ToolTip": "I:\\code-2 (1).txt",
@@ -1016,7 +1051,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 73,
               "Title": "code-2 (1).py",
               "DocumentMoniker": "I:\\code-2 (1).py",
               "ToolTip": "I:\\code-2 (1).py",
@@ -1027,7 +1062,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 70,
               "Title": "code-2.txt",
               "DocumentMoniker": "I:\\code-2.txt",
               "ToolTip": "I:\\code-2.txt",
@@ -1038,7 +1073,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 71,
               "Title": "code-2.py",
               "DocumentMoniker": "I:\\code-2.py",
               "ToolTip": "I:\\code-2.py",
@@ -1049,7 +1084,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 68,
               "Title": "code-3.py",
               "DocumentMoniker": "I:\\code-3.py",
               "ToolTip": "I:\\code-3.py",
@@ -1060,7 +1095,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 20,
               "Title": "code-3 (1).txt",
               "DocumentMoniker": "I:\\code-3 (1).txt",
               "ToolTip": "I:\\code-3 (1).txt",
@@ -1071,19 +1106,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 30,
               "Title": "Colin Kemp - Confluence",
               "DocumentMoniker": "I:\\Colin Kemp - Confluence",
               "ToolTip": "I:\\Colin Kemp - Confluence",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-06-13T14:31:19.854Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 66,
               "Title": "Colin_Kemp.vcf",
               "DocumentMoniker": "I:\\Colin_Kemp.vcf",
               "ToolTip": "I:\\Colin_Kemp.vcf",
@@ -1094,7 +1128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 67,
               "Title": "code-3.txt",
               "DocumentMoniker": "I:\\code-3.txt",
               "ToolTip": "I:\\code-3.txt",
@@ -1105,7 +1139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 64,
               "Title": "com.custom.mac_os.authentication.authenticationSdk-0.0.1 (2).code-workspace",
               "DocumentMoniker": "I:\\com.custom.mac_os.authentication.authenticationSdk-0.0.1 (2).code-workspace",
               "ToolTip": "I:\\com.custom.mac_os.authentication.authenticationSdk-0.0.1 (2).code-workspace",
@@ -1116,7 +1150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 63,
               "Title": "Comparing.png -  [English (United Kingdom)] - PNG [1078x3618, 32 bit, PNG]",
               "DocumentMoniker": "I:\\Comparing.png",
               "ToolTip": "I:\\Comparing.png -  [English (United Kingdom)] - PNG [1078x3618, 32 bit, PNG]",
@@ -1127,7 +1161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 62,
               "Title": "Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud",
               "DocumentMoniker": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud",
               "ToolTip": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud",
@@ -1138,7 +1172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 61,
               "Title": "Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud (1)",
               "DocumentMoniker": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud (1)",
               "ToolTip": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud (1)",
@@ -1149,7 +1183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 60,
               "Title": "Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud-1",
               "DocumentMoniker": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud-1",
               "ToolTip": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud-1",
@@ -1160,19 +1194,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 59,
               "Title": "Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud-1 (1)",
               "DocumentMoniker": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud-1 (1)",
               "ToolTip": "I:\\Configure log sinks with user-managed service accounts \u00A0-\u00A0 Cloud Logging \u00A0-\u00A0 Google Cloud-1 (1)",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-06-13T14:31:31.431Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 58,
               "Title": "Copilot Digital Summit_ Innovate with AI 1.ics",
               "DocumentMoniker": "I:\\Copilot Digital Summit_ Innovate with AI 1.ics",
               "ToolTip": "I:\\Copilot Digital Summit_ Innovate with AI 1.ics",
@@ -1183,7 +1216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 57,
               "Title": "Copilot Digital Summit_ Innovate with AI 2.ics",
               "DocumentMoniker": "I:\\Copilot Digital Summit_ Innovate with AI 2.ics",
               "ToolTip": "I:\\Copilot Digital Summit_ Innovate with AI 2.ics",
@@ -1194,7 +1227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 56,
               "Title": "Copilot Digital Summit_ Innovate with AI.ics",
               "DocumentMoniker": "I:\\Copilot Digital Summit_ Innovate with AI.ics",
               "ToolTip": "I:\\Copilot Digital Summit_ Innovate with AI.ics",
@@ -1205,19 +1238,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 22,
               "Title": "Copy of AHM-1",
               "DocumentMoniker": "I:\\Copy of AHM-1",
               "ToolTip": "I:\\Copy of AHM-1",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBOwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-06-13T14:31:33.951Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 112,
               "Title": "code (14).txt",
               "DocumentMoniker": "I:\\code (14).txt",
               "ToolTip": "I:\\code (14).txt",
@@ -1228,7 +1260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 113,
               "Title": "code (13).txt",
               "DocumentMoniker": "I:\\code (13).txt",
               "ToolTip": "I:\\code (13).txt",
@@ -1239,7 +1271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 110,
               "Title": "code (16).txt",
               "DocumentMoniker": "I:\\code (16).txt",
               "ToolTip": "I:\\code (16).txt",
@@ -1250,7 +1282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 111,
               "Title": "code (15).txt",
               "DocumentMoniker": "I:\\code (15).txt",
               "ToolTip": "I:\\code (15).txt",
@@ -1261,7 +1293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 108,
               "Title": "code (18).txt",
               "DocumentMoniker": "I:\\code (18).txt",
               "ToolTip": "I:\\code (18).txt",
@@ -1272,7 +1304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 109,
               "Title": "code (17).txt",
               "DocumentMoniker": "I:\\code (17).txt",
               "ToolTip": "I:\\code (17).txt",
@@ -1283,7 +1315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 105,
               "Title": "code (21).txt",
               "DocumentMoniker": "I:\\code (21).txt",
               "ToolTip": "I:\\code (21).txt",
@@ -1294,7 +1326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 106,
               "Title": "code (20).txt",
               "DocumentMoniker": "I:\\code (20).txt",
               "ToolTip": "I:\\code (20).txt",
@@ -1305,7 +1337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 107,
               "Title": "code (19).txt",
               "DocumentMoniker": "I:\\code (19).txt",
               "ToolTip": "I:\\code (19).txt",
@@ -1316,7 +1348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 104,
               "Title": "code (22).txt",
               "DocumentMoniker": "I:\\code (22).txt",
               "ToolTip": "I:\\code (22).txt",
@@ -1327,7 +1359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 114,
               "Title": "code (12).txt",
               "DocumentMoniker": "I:\\code (12).txt",
               "ToolTip": "I:\\code (12).txt",
@@ -1338,7 +1370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 78,
               "Title": "code.txt",
               "DocumentMoniker": "I:\\code.txt",
               "ToolTip": "I:\\code.txt",
@@ -1349,7 +1381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 55,
               "Title": "Copy of Alien_House_Music_App_Design.ipynb",
               "DocumentMoniker": "I:\\Copy of Alien_House_Music_App_Design.ipynb",
               "ToolTip": "I:\\Copy of Alien_House_Music_App_Design.ipynb",
@@ -1360,7 +1392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 54,
               "Title": "Copy of Alien_House_Music_App_Design.ipynb -.png -  [English (United Kingdom)] - PNG [686x510, 32 bit, PNG]",
               "DocumentMoniker": "I:\\Copy of Alien_House_Music_App_Design.ipynb -.png",
               "ToolTip": "I:\\Copy of Alien_House_Music_App_Design.ipynb -.png -  [English (United Kingdom)] - PNG [686x510, 32 bit, PNG]",
@@ -1371,7 +1403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 53,
               "Title": "Copy of Code_Execution (1).ipynb - Colab",
               "DocumentMoniker": "I:\\Copy of Code_Execution (1).ipynb - Colab",
               "ToolTip": "I:\\Copy of Code_Execution (1).ipynb - Colab",
@@ -1382,7 +1414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 52,
               "Title": "Copy of Code_Execution.ipynb - Colab",
               "DocumentMoniker": "I:\\Copy of Code_Execution.ipynb - Colab",
               "ToolTip": "I:\\Copy of Code_Execution.ipynb - Colab",
@@ -1393,7 +1425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 51,
               "Title": "Copy of Code_Execution-1 (1).ipynb - Colab",
               "DocumentMoniker": "I:\\Copy of Code_Execution-1 (1).ipynb - Colab",
               "ToolTip": "I:\\Copy of Code_Execution-1 (1).ipynb - Colab",
@@ -1404,7 +1436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 50,
               "Title": "Copy of Code_Execution-1.ipynb - Colab",
               "DocumentMoniker": "I:\\Copy of Code_Execution-1.ipynb - Colab",
               "ToolTip": "I:\\Copy of Code_Execution-1.ipynb - Colab",
@@ -1415,7 +1447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 49,
               "Title": "Copy of Code_Execution-2 (1).ipynb - Colab",
               "DocumentMoniker": "I:\\Copy of Code_Execution-2 (1).ipynb - Colab",
               "ToolTip": "I:\\Copy of Code_Execution-2 (1).ipynb - Colab",
@@ -1426,7 +1458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 48,
               "Title": "Copy of Code_Execution-2.ipynb - Colab",
               "DocumentMoniker": "I:\\Copy of Code_Execution-2.ipynb - Colab",
               "ToolTip": "I:\\Copy of Code_Execution-2.ipynb - Colab",
@@ -1437,7 +1469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 47,
               "Title": "Copy of Drawing with LLMs - Getting Started with DeepSeek",
               "DocumentMoniker": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek",
               "ToolTip": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek",
@@ -1448,7 +1480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 46,
               "Title": "Copy of Drawing with LLMs - Getting Started with DeepSeek (1)",
               "DocumentMoniker": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek (1)",
               "ToolTip": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek (1)",
@@ -1459,7 +1491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 45,
               "Title": "Copy of Drawing with LLMs - Getting Started with DeepSeek 1",
               "DocumentMoniker": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek 1",
               "ToolTip": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek 1",
@@ -1470,7 +1502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 44,
               "Title": "Copy of Drawing with LLMs - Getting Started with DeepSeek 2",
               "DocumentMoniker": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek 2",
               "ToolTip": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek 2",
@@ -1481,19 +1513,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 27,
               "Title": "Copy of Drawing with LLMs - Getting Started with DeepSeek 3",
               "DocumentMoniker": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek 3",
               "ToolTip": "I:\\Copy of Drawing with LLMs - Getting Started with DeepSeek 3",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-06-13T14:31:39.338Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 43,
               "Title": "Copy of Gemma3_1b_fine_tune.ipynb",
               "DocumentMoniker": "I:\\Copy of Gemma3_1b_fine_tune.ipynb",
               "ToolTip": "I:\\Copy of Gemma3_1b_fine_tune.ipynb",
@@ -1504,7 +1535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 42,
               "Title": "Copy of Gemma3_1b_fine_tune.ipynb - Colab (1).png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
               "DocumentMoniker": "I:\\Copy of Gemma3_1b_fine_tune.ipynb - Colab (1).png",
               "ToolTip": "I:\\Copy of Gemma3_1b_fine_tune.ipynb - Colab (1).png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
@@ -1515,7 +1546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 41,
               "Title": "Copy of Gemma3_1b_fine_tune.ipynb - Colab.png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
               "DocumentMoniker": "I:\\Copy of Gemma3_1b_fine_tune.ipynb - Colab.png",
               "ToolTip": "I:\\Copy of Gemma3_1b_fine_tune.ipynb - Colab.png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
@@ -1526,7 +1557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 40,
               "Title": "Copy of MediaPipe Model Maker Image Classifier Demo (1).ipynb",
               "DocumentMoniker": "I:\\Copy of MediaPipe Model Maker Image Classifier Demo (1).ipynb",
               "ToolTip": "I:\\Copy of MediaPipe Model Maker Image Classifier Demo (1).ipynb",
@@ -1537,7 +1568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 39,
               "Title": "Copy of MediaPipe Model Maker Image Classifier Demo.ipynb",
               "DocumentMoniker": "I:\\Copy of MediaPipe Model Maker Image Classifier Demo.ipynb",
               "ToolTip": "I:\\Copy of MediaPipe Model Maker Image Classifier Demo.ipynb",
@@ -1548,7 +1579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 38,
               "Title": "Copy of notebookfa2a062410",
               "DocumentMoniker": "I:\\Copy of notebookfa2a062410",
               "ToolTip": "I:\\Copy of notebookfa2a062410",
@@ -1559,7 +1590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 37,
               "Title": "Copy of notebookfa2a062410 (2)",
               "DocumentMoniker": "I:\\Copy of notebookfa2a062410 (2)",
               "ToolTip": "I:\\Copy of notebookfa2a062410 (2)",
@@ -1570,7 +1601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 36,
               "Title": "Copy of notebookfa2a062410 1",
               "DocumentMoniker": "I:\\Copy of notebookfa2a062410 1",
               "ToolTip": "I:\\Copy of notebookfa2a062410 1",
@@ -1581,19 +1612,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "package.json",
               "DocumentMoniker": "I:\\music-app\\package.json",
               "ToolTip": "I:\\music-app\\package.json",
               "ViewState": "AgIAAAAAAAAAAAAAAABBwAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-14T09:39:36.946Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 101,
               "Title": "code (31).txt",
               "DocumentMoniker": "I:\\code (31).txt",
               "ToolTip": "I:\\code (31).txt",
@@ -1604,7 +1634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 79,
               "Title": "code.sh",
               "DocumentMoniker": "I:\\code.sh",
               "ToolTip": "I:\\code.sh",
@@ -1615,7 +1645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 98,
               "Title": "code (35).txt",
               "DocumentMoniker": "I:\\code (35).txt",
               "ToolTip": "I:\\code (35).txt",
@@ -1626,7 +1656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 74,
               "Title": "code-1.txt",
               "DocumentMoniker": "I:\\code-1.txt",
               "ToolTip": "I:\\code-1.txt",
@@ -1637,7 +1667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 69,
               "Title": "code-3 (1).py",
               "DocumentMoniker": "I:\\code-3 (1).py",
               "ToolTip": "I:\\code-3 (1).py",
@@ -1648,7 +1678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 118,
               "Title": "code (8).txt",
               "DocumentMoniker": "I:\\code (8).txt",
               "ToolTip": "I:\\code (8).txt",
@@ -1659,7 +1689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 119,
               "Title": "code (7).txt",
               "DocumentMoniker": "I:\\code (7).txt",
               "ToolTip": "I:\\code (7).txt",
@@ -1670,7 +1700,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 117,
               "Title": "code (9).txt",
               "DocumentMoniker": "I:\\code (9).txt",
               "ToolTip": "I:\\code (9).txt",
@@ -1681,7 +1711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 116,
               "Title": "code (10).txt",
               "DocumentMoniker": "I:\\code (10).txt",
               "ToolTip": "I:\\code (10).txt",
@@ -1692,7 +1722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 115,
               "Title": "code (11).txt",
               "DocumentMoniker": "I:\\code (11).txt",
               "ToolTip": "I:\\code (11).txt",
@@ -1703,7 +1733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 65,
               "Title": "colin-kemp.png -  [English (United Kingdom)] - PNG [512x512, 24 bit, PNG]",
               "DocumentMoniker": "I:\\colin-kemp.png",
               "ToolTip": "I:\\colin-kemp.png -  [English (United Kingdom)] - PNG [512x512, 24 bit, PNG]",
@@ -1714,7 +1744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 120,
               "Title": "code (7).py",
               "DocumentMoniker": "I:\\code (7).py",
               "ToolTip": "I:\\code (7).py",
@@ -1725,29 +1755,223 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.txt",
+              "DocumentMoniker": "I:\\README.txt",
+              "ToolTip": "I:\\README.txt",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-17T21:15:33.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "I:\\README.md",
+              "ToolTip": "I:\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-17T21:15:33.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README KaggleDataset PANDAS   ALIEN HOUSE MUSIC 4.md",
+              "DocumentMoniker": "I:\\README KaggleDataset PANDAS   ALIEN HOUSE MUSIC 4.md",
+              "ToolTip": "I:\\README KaggleDataset PANDAS   ALIEN HOUSE MUSIC 4.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-17T21:15:33.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ranch-Hand-Robotics.rde-ros-2-0.0.3.vsix",
+              "DocumentMoniker": "I:\\Ranch-Hand-Robotics.rde-ros-2-0.0.3.vsix",
+              "ToolTip": "I:\\Ranch-Hand-Robotics.rde-ros-2-0.0.3.vsix",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABwSURBVDhPY/z27dt/BjIBFycnA9gAHx8fqBAq2LJlC5jGJ88EZRMEIMXIGAaINgAXwDAAmy3IbHTAAqVRAKEwQQYkewFkOLIFJBuA7kXqByIhAPMCzBsUuwAjJeKLMhBAV0u/pIwLUCcMoGwyAAMDAHQaREegmV\u002B5AAAAAElFTkSuQmCCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2025-06-17T21:15:32.874Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "code flutter-1.py",
-              "DocumentMoniker": "I:\\code flutter-1.py",
-              "ToolTip": "I:\\code flutter-1.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAABBwAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-06-13T14:31:12.876Z",
+              "Title": "quick-start.md",
+              "DocumentMoniker": "I:\\quick-start.md",
+              "ToolTip": "I:\\quick-start.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-17T21:15:32.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "python setup.py sdist bdist_wheel.py sdist bdist_wheel.py sdist bdist_wheel",
+              "DocumentMoniker": "I:\\python setup.py sdist bdist_wheel.py sdist bdist_wheel.py sdist bdist_wheel",
+              "ToolTip": "I:\\python setup.py sdist bdist_wheel.py sdist bdist_wheel.py sdist bdist_wheel",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-17T21:15:32.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "python -m twine upload --repository test.txt",
+              "DocumentMoniker": "I:\\python -m twine upload --repository test.txt",
+              "ToolTip": "I:\\python -m twine upload --repository test.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-17T21:15:32.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "python -m twine upload --repository test.1.txt",
+              "DocumentMoniker": "I:\\python -m twine upload --repository test.1.txt",
+              "ToolTip": "I:\\python -m twine upload --repository test.1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-17T21:15:32.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "python -m twine upload --repository test .1.txt",
+              "DocumentMoniker": "I:\\python -m twine upload --repository test .1.txt",
+              "ToolTip": "I:\\python -m twine upload --repository test .1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-17T21:15:31.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "python -m build.txt",
+              "DocumentMoniker": "I:\\python -m build.txt",
+              "ToolTip": "I:\\python -m build.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-17T21:15:31.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "python -m build.1.txt",
+              "DocumentMoniker": "I:\\python -m build.1.txt",
+              "ToolTip": "I:\\python -m build.1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-17T21:15:31.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Python client library - Google Cloud.png -  [English (United Kingdom)] - PNG [1265x13056, 32 bit, PNG]",
+              "DocumentMoniker": "I:\\Python client library - Google Cloud.png",
+              "ToolTip": "I:\\Python client library - Google Cloud.png -  [English (United Kingdom)] - PNG [1265x13056, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-17T21:15:30.868Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1265x13056, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "pypa_pip_f7e628.json",
+              "DocumentMoniker": "I:\\pypa_pip_f7e628.json",
+              "ToolTip": "I:\\pypa_pip_f7e628.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T21:15:30.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "pypa_pip_c2404f.json",
+              "DocumentMoniker": "I:\\pypa_pip_c2404f.json",
+              "ToolTip": "I:\\pypa_pip_c2404f.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T21:15:30.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "pypa_pip_6f447c.json",
+              "DocumentMoniker": "I:\\pypa_pip_6f447c.json",
+              "ToolTip": "I:\\pypa_pip_6f447c.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T21:15:29.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "pydot-3.0.4-py3-none-any.whl",
+              "DocumentMoniker": "I:\\pydot-3.0.4-py3-none-any.whl",
+              "ToolTip": "I:\\pydot-3.0.4-py3-none-any.whl",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-17T21:15:29.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "rest.json",
+              "DocumentMoniker": "I:\\rest.json",
+              "ToolTip": "I:\\rest.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T21:14:36.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "README.md",
+              "DocumentMoniker": "I:\\music-app\\README.md",
+              "ToolTip": "I:\\music-app\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-16T15:59:55.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "code flutter-1.py",
+              "DocumentMoniker": "I:\\code flutter-1.py",
+              "ToolTip": "I:\\code flutter-1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-13T14:31:12.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "Credits \u2013 My Billing Account.csv",
               "DocumentMoniker": "I:\\Credits \u2013 My Billing Account.csv",
               "ToolTip": "I:\\Credits \u2013 My Billing Account.csv",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-06-13T14:31:43.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T14:31:43.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 32,
               "Title": "Created using Colab \u00B7 teakingbeatsxr-ALIEN.png -  [English (United Kingdom)] - PNG [1023x8303, 32 bit, PNG]",
               "DocumentMoniker": "I:\\Created using Colab \u00B7 teakingbeatsxr-ALIEN.png",
               "ToolTip": "I:\\Created using Colab \u00B7 teakingbeatsxr-ALIEN.png -  [English (United Kingdom)] - PNG [1023x8303, 32 bit, PNG]",
@@ -1757,7 +1981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 33,
               "Title": "Core library desugaring crashing app after.png -  [English (United Kingdom)] - PNG [960x503, 32 bit, PNG]",
               "DocumentMoniker": "I:\\Core library desugaring crashing app after.png",
               "ToolTip": "I:\\Core library desugaring crashing app after.png -  [English (United Kingdom)] - PNG [960x503, 32 bit, PNG]",
@@ -1767,7 +1991,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 34,
               "Title": "Copy of notebookfcb88ba979 1",
               "DocumentMoniker": "I:\\Copy of notebookfcb88ba979 1",
               "ToolTip": "I:\\Copy of notebookfcb88ba979 1",
@@ -1777,7 +2001,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 35,
               "Title": "Copy of notebookfcb88ba979 (2)",
               "DocumentMoniker": "I:\\Copy of notebookfcb88ba979 (2)",
               "ToolTip": "I:\\Copy of notebookfcb88ba979 (2)",
@@ -1787,28 +2011,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 26,
               "Title": "Copy of notebookfcb88ba979",
               "DocumentMoniker": "I:\\Copy of notebookfcb88ba979",
               "ToolTip": "I:\\Copy of notebookfcb88ba979",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-13T14:31:41.823Z",
+              "WhenOpened": "2025-06-13T14:31:41.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "code (6).txt",
+              "DocumentMoniker": "I:\\code (6).txt",
+              "ToolTip": "I:\\code (6).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAABcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T14:30:59.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
-              "Title": "code (6).txt",
-              "DocumentMoniker": "I:\\code (6).txt",
-              "ToolTip": "I:\\code (6).txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-06-13T14:30:59.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 121,
               "Title": "code (6).py",
               "DocumentMoniker": "I:\\code (6).py",
               "ToolTip": "I:\\code (6).py",
@@ -1818,7 +2042,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 122,
               "Title": "code (5).txt",
               "DocumentMoniker": "I:\\code (5).txt",
               "ToolTip": "I:\\code (5).txt",
@@ -1828,7 +2052,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 123,
               "Title": "code (5).py",
               "DocumentMoniker": "I:\\code (5).py",
               "ToolTip": "I:\\code (5).py",
@@ -1838,7 +2062,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 124,
               "Title": "code (5) docker file-1.txt",
               "DocumentMoniker": "I:\\code (5) docker file-1.txt",
               "ToolTip": "I:\\code (5) docker file-1.txt",
@@ -1848,7 +2072,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 125,
               "Title": "code (5) docker file-1 (1).txt",
               "DocumentMoniker": "I:\\code (5) docker file-1 (1).txt",
               "ToolTip": "I:\\code (5) docker file-1 (1).txt",
@@ -1858,7 +2082,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 126,
               "Title": "code (5) docker file.txt",
               "DocumentMoniker": "I:\\code (5) docker file.txt",
               "ToolTip": "I:\\code (5) docker file.txt",
@@ -1868,7 +2092,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 127,
               "Title": "code (5) docker file (1).txt",
               "DocumentMoniker": "I:\\code (5) docker file (1).txt",
               "ToolTip": "I:\\code (5) docker file (1).txt",
@@ -1878,7 +2102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 128,
               "Title": "code (4).txt",
               "DocumentMoniker": "I:\\code (4).txt",
               "ToolTip": "I:\\code (4).txt",
@@ -1888,7 +2112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 129,
               "Title": "code (4).py",
               "DocumentMoniker": "I:\\code (4).py",
               "ToolTip": "I:\\code (4).py",
@@ -1898,7 +2122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 130,
               "Title": "code (4) 1.py",
               "DocumentMoniker": "I:\\code (4) 1.py",
               "ToolTip": "I:\\code (4) 1.py",
@@ -1908,7 +2132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 131,
               "Title": "code (3).txt",
               "DocumentMoniker": "I:\\code (3).txt",
               "ToolTip": "I:\\code (3).txt",
@@ -1918,7 +2142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 132,
               "Title": "code (3).py",
               "DocumentMoniker": "I:\\code (3).py",
               "ToolTip": "I:\\code (3).py",
@@ -1928,7 +2152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 133,
               "Title": "code (2)-2.txt",
               "DocumentMoniker": "I:\\code (2)-2.txt",
               "ToolTip": "I:\\code (2)-2.txt",
@@ -1938,7 +2162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 134,
               "Title": "code (2)-2 (1).txt",
               "DocumentMoniker": "I:\\code (2)-2 (1).txt",
               "ToolTip": "I:\\code (2)-2 (1).txt",
@@ -1948,7 +2172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 135,
               "Title": "code (2)-1.txt",
               "DocumentMoniker": "I:\\code (2)-1.txt",
               "ToolTip": "I:\\code (2)-1.txt",
@@ -1958,7 +2182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 136,
               "Title": "code (2)-1.py",
               "DocumentMoniker": "I:\\code (2)-1.py",
               "ToolTip": "I:\\code (2)-1.py",
@@ -1968,7 +2192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 137,
               "Title": "code (2)-1 (1).txt",
               "DocumentMoniker": "I:\\code (2)-1 (1).txt",
               "ToolTip": "I:\\code (2)-1 (1).txt",
@@ -1978,7 +2202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
+              "DocumentIndex": 138,
               "Title": "code (2)-1 (1).py",
               "DocumentMoniker": "I:\\code (2)-1 (1).py",
               "ToolTip": "I:\\code (2)-1 (1).py",
@@ -1988,7 +2212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 122,
+              "DocumentIndex": 139,
               "Title": "code (2).txt",
               "DocumentMoniker": "I:\\code (2).txt",
               "ToolTip": "I:\\code (2).txt",
@@ -1998,7 +2222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 123,
+              "DocumentIndex": 140,
               "Title": "code (2).py",
               "DocumentMoniker": "I:\\code (2).py",
               "ToolTip": "I:\\code (2).py",
@@ -2008,7 +2232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 124,
+              "DocumentIndex": 141,
               "Title": "code (2) flutter-2.txt",
               "DocumentMoniker": "I:\\code (2) flutter-2.txt",
               "ToolTip": "I:\\code (2) flutter-2.txt",
@@ -2018,7 +2242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 125,
+              "DocumentIndex": 142,
               "Title": "code (2) flutter-2 (1).txt",
               "DocumentMoniker": "I:\\code (2) flutter-2 (1).txt",
               "ToolTip": "I:\\code (2) flutter-2 (1).txt",
@@ -2028,7 +2252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 126,
+              "DocumentIndex": 143,
               "Title": "code (2) flutter-1.txt",
               "DocumentMoniker": "I:\\code (2) flutter-1.txt",
               "ToolTip": "I:\\code (2) flutter-1.txt",
@@ -2038,7 +2262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 127,
+              "DocumentIndex": 144,
               "Title": "code (2) flutter-1 (1).txt",
               "DocumentMoniker": "I:\\code (2) flutter-1 (1).txt",
               "ToolTip": "I:\\code (2) flutter-1 (1).txt",
@@ -2048,7 +2272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 128,
+              "DocumentIndex": 145,
               "Title": "code (2) flutter.txt",
               "DocumentMoniker": "I:\\code (2) flutter.txt",
               "ToolTip": "I:\\code (2) flutter.txt",
@@ -2058,7 +2282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 129,
+              "DocumentIndex": 146,
               "Title": "code (2) flutter (2).txt",
               "DocumentMoniker": "I:\\code (2) flutter (2).txt",
               "ToolTip": "I:\\code (2) flutter (2).txt",
@@ -2068,7 +2292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 130,
+              "DocumentIndex": 147,
               "Title": "code (2) flutter (1).txt",
               "DocumentMoniker": "I:\\code (2) flutter (1).txt",
               "ToolTip": "I:\\code (2) flutter (1).txt",
@@ -2078,7 +2302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 131,
+              "DocumentIndex": 148,
               "Title": "code (2) (4).txt",
               "DocumentMoniker": "I:\\code (2) (4).txt",
               "ToolTip": "I:\\code (2) (4).txt",
@@ -2088,7 +2312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 132,
+              "DocumentIndex": 149,
               "Title": "code (2) (3).txt",
               "DocumentMoniker": "I:\\code (2) (3).txt",
               "ToolTip": "I:\\code (2) (3).txt",
@@ -2098,7 +2322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 133,
+              "DocumentIndex": 150,
               "Title": "code (2) (2).txt",
               "DocumentMoniker": "I:\\code (2) (2).txt",
               "ToolTip": "I:\\code (2) (2).txt",
@@ -2108,7 +2332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 134,
+              "DocumentIndex": 151,
               "Title": "code (2) (2).py",
               "DocumentMoniker": "I:\\code (2) (2).py",
               "ToolTip": "I:\\code (2) (2).py",
@@ -2118,7 +2342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 135,
+              "DocumentIndex": 152,
               "Title": "code (2) (1).txt",
               "DocumentMoniker": "I:\\code (2) (1).txt",
               "ToolTip": "I:\\code (2) (1).txt",
@@ -2128,7 +2352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 136,
+              "DocumentIndex": 153,
               "Title": "code (2) (1).py",
               "DocumentMoniker": "I:\\code (2) (1).py",
               "ToolTip": "I:\\code (2) (1).py",
@@ -2138,7 +2362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 137,
+              "DocumentIndex": 154,
               "Title": "code (1)-3.txt",
               "DocumentMoniker": "I:\\code (1)-3.txt",
               "ToolTip": "I:\\code (1)-3.txt",
@@ -2148,7 +2372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 138,
+              "DocumentIndex": 155,
               "Title": "code (1)-3 (1).txt",
               "DocumentMoniker": "I:\\code (1)-3 (1).txt",
               "ToolTip": "I:\\code (1)-3 (1).txt",
@@ -2158,7 +2382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 139,
+              "DocumentIndex": 156,
               "Title": "code (1)-2.txt",
               "DocumentMoniker": "I:\\code (1)-2.txt",
               "ToolTip": "I:\\code (1)-2.txt",
@@ -2168,7 +2392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 140,
+              "DocumentIndex": 157,
               "Title": "code (1)-2 (1).txt",
               "DocumentMoniker": "I:\\code (1)-2 (1).txt",
               "ToolTip": "I:\\code (1)-2 (1).txt",
@@ -2178,7 +2402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 141,
+              "DocumentIndex": 158,
               "Title": "code (1)-1.txt",
               "DocumentMoniker": "I:\\code (1)-1.txt",
               "ToolTip": "I:\\code (1)-1.txt",
@@ -2188,7 +2412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 142,
+              "DocumentIndex": 159,
               "Title": "code (1)-1.py",
               "DocumentMoniker": "I:\\code (1)-1.py",
               "ToolTip": "I:\\code (1)-1.py",
@@ -2198,7 +2422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 143,
+              "DocumentIndex": 160,
               "Title": "code (1).txt",
               "DocumentMoniker": "I:\\code (1).txt",
               "ToolTip": "I:\\code (1).txt",
@@ -2208,7 +2432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 144,
+              "DocumentIndex": 161,
               "Title": "code (1).py",
               "DocumentMoniker": "I:\\code (1).py",
               "ToolTip": "I:\\code (1).py",
@@ -2218,7 +2442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 145,
+              "DocumentIndex": 162,
               "Title": "client_secret_451258727340-urdaj9h2e8t2sjf46k8a3c1fpcplade3.apps.googleusercontent.com.json",
               "DocumentMoniker": "I:\\client_secret_451258727340-urdaj9h2e8t2sjf46k8a3c1fpcplade3.apps.googleusercontent.com.json",
               "ToolTip": "I:\\client_secret_451258727340-urdaj9h2e8t2sjf46k8a3c1fpcplade3.apps.googleusercontent.com.json",
@@ -2228,7 +2452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 146,
+              "DocumentIndex": 163,
               "Title": "BUG- as_op not pickled, making parallel SMC.png -  [English (United Kingdom)] - PNG [1280x56, 32 bit, PNG]",
               "DocumentMoniker": "I:\\BUG- as_op not pickled, making parallel SMC.png",
               "ToolTip": "I:\\BUG- as_op not pickled, making parallel SMC.png -  [English (United Kingdom)] - PNG [1280x56, 32 bit, PNG]",
@@ -2238,7 +2462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 147,
+              "DocumentIndex": 164,
               "Title": "BUG- as_op not pickled, making parallel SMC (2).png -  [English (United Kingdom)] - PNG [1280x56, 32 bit, PNG]",
               "DocumentMoniker": "I:\\BUG- as_op not pickled, making parallel SMC (2).png",
               "ToolTip": "I:\\BUG- as_op not pickled, making parallel SMC (2).png -  [English (United Kingdom)] - PNG [1280x56, 32 bit, PNG]",
@@ -2248,7 +2472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 148,
+              "DocumentIndex": 165,
               "Title": "BUG- as_op not pickled, making parallel SMC (1).png -  [English (United Kingdom)] - PNG [1280x56, 32 bit, PNG]",
               "DocumentMoniker": "I:\\BUG- as_op not pickled, making parallel SMC (1).png",
               "ToolTip": "I:\\BUG- as_op not pickled, making parallel SMC (1).png -  [English (United Kingdom)] - PNG [1280x56, 32 bit, PNG]",
@@ -2258,7 +2482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 149,
+              "DocumentIndex": 166,
               "Title": "BitLocker Recovery Key 889401FD-DBFD-4995-932C-2E05A040E116.TXT",
               "DocumentMoniker": "I:\\BitLocker Recovery Key 889401FD-DBFD-4995-932C-2E05A040E116.TXT",
               "ToolTip": "I:\\BitLocker Recovery Key 889401FD-DBFD-4995-932C-2E05A040E116.TXT [Read Only]",
@@ -2269,7 +2493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 150,
+              "DocumentIndex": 167,
               "Title": "badge.svg",
               "DocumentMoniker": "I:\\badge.svg",
               "ToolTip": "I:\\badge.svg",
@@ -2279,7 +2503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 151,
+              "DocumentIndex": 168,
               "Title": "badge (3).svg",
               "DocumentMoniker": "I:\\badge (3).svg",
               "ToolTip": "I:\\badge (3).svg",
@@ -2289,7 +2513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 152,
+              "DocumentIndex": 169,
               "Title": "badge (2).svg",
               "DocumentMoniker": "I:\\badge (2).svg",
               "ToolTip": "I:\\badge (2).svg",
@@ -2299,7 +2523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 153,
+              "DocumentIndex": 170,
               "Title": "badge (1).svg",
               "DocumentMoniker": "I:\\badge (1).svg",
               "ToolTip": "I:\\badge (1).svg",
@@ -2309,7 +2533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 154,
+              "DocumentIndex": 171,
               "Title": "b22a6b49-1ff0-11f0-afc9-582429a7b0d8.csv",
               "DocumentMoniker": "I:\\b22a6b49-1ff0-11f0-afc9-582429a7b0d8.csv",
               "ToolTip": "I:\\b22a6b49-1ff0-11f0-afc9-582429a7b0d8.csv",
@@ -2319,7 +2543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 155,
+              "DocumentIndex": 172,
               "Title": "Autosync_20250318_094226-1.backup",
               "DocumentMoniker": "I:\\Autosync_20250318_094226-1.backup",
               "ToolTip": "I:\\Autosync_20250318_094226-1.backup",
@@ -2329,7 +2553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 156,
+              "DocumentIndex": 173,
               "Title": "Autosync_20250318_094226-1 (1).backup",
               "DocumentMoniker": "I:\\Autosync_20250318_094226-1 (1).backup",
               "ToolTip": "I:\\Autosync_20250318_094226-1 (1).backup",
@@ -2339,7 +2563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 157,
+              "DocumentIndex": 174,
               "Title": "Autosync_20250318_094226.backup",
               "DocumentMoniker": "I:\\Autosync_20250318_094226.backup",
               "ToolTip": "I:\\Autosync_20250318_094226.backup",
@@ -2349,7 +2573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 158,
+              "DocumentIndex": 175,
               "Title": "Autosync_20250318_094226 (1).backup",
               "DocumentMoniker": "I:\\Autosync_20250318_094226 (1).backup",
               "ToolTip": "I:\\Autosync_20250318_094226 (1).backup",
@@ -2359,7 +2583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 159,
+              "DocumentIndex": 176,
               "Title": "Another copy of Drawing with LLMs - Getting Started with DeepSeek 1",
               "DocumentMoniker": "I:\\Another copy of Drawing with LLMs - Getting Started with DeepSeek 1",
               "ToolTip": "I:\\Another copy of Drawing with LLMs - Getting Started with DeepSeek 1",
@@ -2369,7 +2593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 160,
+              "DocumentIndex": 177,
               "Title": "Another copy of Drawing with LLMs - Getting Started with DeepSeek (1)",
               "DocumentMoniker": "I:\\Another copy of Drawing with LLMs - Getting Started with DeepSeek (1)",
               "ToolTip": "I:\\Another copy of Drawing with LLMs - Getting Started with DeepSeek (1)",
@@ -2379,7 +2603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 161,
+              "DocumentIndex": 178,
               "Title": "Another copy of Drawing with LLMs - Getting Started with DeepSeek",
               "DocumentMoniker": "I:\\Another copy of Drawing with LLMs - Getting Started with DeepSeek",
               "ToolTip": "I:\\Another copy of Drawing with LLMs - Getting Started with DeepSeek",
@@ -2389,7 +2613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 162,
+              "DocumentIndex": 179,
               "Title": "Another copy of Alien_House_Music_App_Design.ipynb",
               "DocumentMoniker": "I:\\Another copy of Alien_House_Music_App_Design.ipynb",
               "ToolTip": "I:\\Another copy of Alien_House_Music_App_Design.ipynb",
@@ -2399,7 +2623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 163,
+              "DocumentIndex": 180,
               "Title": "Another copy of Alien_House_Music_App_Design 1.ipynb",
               "DocumentMoniker": "I:\\Another copy of Alien_House_Music_App_Design 1.ipynb",
               "ToolTip": "I:\\Another copy of Alien_House_Music_App_Design 1.ipynb",
@@ -2409,7 +2633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 164,
+              "DocumentIndex": 181,
               "Title": "analytics_log_event.js",
               "DocumentMoniker": "I:\\analytics_log_event.js",
               "ToolTip": "I:\\analytics_log_event.js",
@@ -2419,7 +2643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 165,
+              "DocumentIndex": 182,
               "Title": "Analytics.png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
               "DocumentMoniker": "I:\\Analytics.png",
               "ToolTip": "I:\\Analytics.png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
@@ -2429,7 +2653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 166,
+              "DocumentIndex": 183,
               "Title": "All categories Extensions - Visual Studio Code.png -  [English (United Kingdom)] - PNG [1250x2784, 32 bit, PNG]",
               "DocumentMoniker": "I:\\All categories Extensions - Visual Studio Code.png",
               "ToolTip": "I:\\All categories Extensions - Visual Studio Code.png -  [English (United Kingdom)] - PNG [1250x2784, 32 bit, PNG]",
@@ -2439,7 +2663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 167,
+              "DocumentIndex": 184,
               "Title": "ALIEN-HOUSE.png -  [English (United Kingdom)] - PNG [1265x697, 32 bit, PNG]",
               "DocumentMoniker": "I:\\ALIEN-HOUSE.png",
               "ToolTip": "I:\\ALIEN-HOUSE.png -  [English (United Kingdom)] - PNG [1265x697, 32 bit, PNG]",
@@ -2449,7 +2673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 168,
+              "DocumentIndex": 185,
               "Title": "AlienHouse Music \u00B7 Issue #245632 \u00B7.png -  [English (United Kingdom)] - PNG [1078x2479, 32 bit, PNG]",
               "DocumentMoniker": "I:\\AlienHouse Music \u00B7 Issue #245632 \u00B7.png",
               "ToolTip": "I:\\AlienHouse Music \u00B7 Issue #245632 \u00B7.png -  [English (United Kingdom)] - PNG [1078x2479, 32 bit, PNG]",
@@ -2459,7 +2683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 169,
+              "DocumentIndex": 186,
               "Title": "Alien_House_Music_App_Design.ipynb - Colab.png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
               "DocumentMoniker": "I:\\Alien_House_Music_App_Design.ipynb - Colab.png",
               "ToolTip": "I:\\Alien_House_Music_App_Design.ipynb - Colab.png -  [English (United Kingdom)] - PNG [1094x526, 32 bit, PNG]",
@@ -2469,17 +2693,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 170,
+              "DocumentIndex": 187,
               "Title": "Alien_House_Music_App_Design.ipynb",
               "DocumentMoniker": "I:\\Alien_House_Music_App_Design.ipynb",
               "ToolTip": "I:\\Alien_House_Music_App_Design.ipynb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-13T14:30:28.043Z"
+              "WhenOpened": "2025-06-13T14:30:28.043Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 171,
+              "DocumentIndex": 188,
               "Title": "Alien House Music App Design 1",
               "DocumentMoniker": "I:\\Alien House Music App Design 1",
               "ToolTip": "I:\\Alien House Music App Design 1",
@@ -2489,7 +2714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 172,
+              "DocumentIndex": 189,
               "Title": "Alien House Music App Design (1)",
               "DocumentMoniker": "I:\\Alien House Music App Design (1)",
               "ToolTip": "I:\\Alien House Music App Design (1)",
@@ -2499,7 +2724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 173,
+              "DocumentIndex": 190,
               "Title": "Alien House Music App Design",
               "DocumentMoniker": "I:\\Alien House Music App Design",
               "ToolTip": "I:\\Alien House Music App Design",
@@ -2509,7 +2734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 174,
+              "DocumentIndex": 191,
               "Title": "Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console-1 (1)",
               "DocumentMoniker": "I:\\Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console-1 (1)",
               "ToolTip": "I:\\Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console-1 (1)",
@@ -2519,7 +2744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 175,
+              "DocumentIndex": 192,
               "Title": "Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console-1",
               "DocumentMoniker": "I:\\Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console-1",
               "ToolTip": "I:\\Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console-1",
@@ -2529,7 +2754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 176,
+              "DocumentIndex": 193,
               "Title": "Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console",
               "DocumentMoniker": "I:\\Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console",
               "ToolTip": "I:\\Alien house music \u2013 Project settings \u2013 General \u2013 Firebase console",
@@ -2539,7 +2764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 177,
+              "DocumentIndex": 194,
               "Title": "Alien house music  Project settings  General  Firebase console",
               "DocumentMoniker": "I:\\Alien house music  Project settings  General  Firebase console",
               "ToolTip": "I:\\Alien house music  Project settings  General  Firebase console",
@@ -2549,7 +2774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 178,
+              "DocumentIndex": 195,
               "Title": "ALIEN HOUSE MUSIC - Project IDX-1 (1)",
               "DocumentMoniker": "I:\\ALIEN HOUSE MUSIC - Project IDX-1 (1)",
               "ToolTip": "I:\\ALIEN HOUSE MUSIC - Project IDX-1 (1)",
@@ -2559,7 +2784,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 179,
+              "DocumentIndex": 196,
               "Title": "ALIEN HOUSE MUSIC - Project IDX-1",
               "DocumentMoniker": "I:\\ALIEN HOUSE MUSIC - Project IDX-1",
               "ToolTip": "I:\\ALIEN HOUSE MUSIC - Project IDX-1",
@@ -2569,7 +2794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 180,
+              "DocumentIndex": 197,
               "Title": "ALIEN HOUSE MUSIC - Project IDX (4)",
               "DocumentMoniker": "I:\\ALIEN HOUSE MUSIC - Project IDX (4)",
               "ToolTip": "I:\\ALIEN HOUSE MUSIC - Project IDX (4)",
@@ -2579,7 +2804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 181,
+              "DocumentIndex": 198,
               "Title": "ALIEN HOUSE MUSIC - Project IDX (3)",
               "DocumentMoniker": "I:\\ALIEN HOUSE MUSIC - Project IDX (3)",
               "ToolTip": "I:\\ALIEN HOUSE MUSIC - Project IDX (3)",
@@ -2589,7 +2814,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 182,
+              "DocumentIndex": 199,
               "Title": "ALIEN HOUSE MUSIC - Project IDX (2)",
               "DocumentMoniker": "I:\\ALIEN HOUSE MUSIC - Project IDX (2)",
               "ToolTip": "I:\\ALIEN HOUSE MUSIC - Project IDX (2)",
@@ -2599,7 +2824,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 183,
+              "DocumentIndex": 200,
               "Title": "ALIEN HOUSE MUSIC - Project IDX (1)",
               "DocumentMoniker": "I:\\ALIEN HOUSE MUSIC - Project IDX (1)",
               "ToolTip": "I:\\ALIEN HOUSE MUSIC - Project IDX (1)",
@@ -2609,7 +2834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 184,
+              "DocumentIndex": 201,
               "Title": "ALIEN HOUSE MUSIC - Project IDX",
               "DocumentMoniker": "I:\\ALIEN HOUSE MUSIC - Project IDX",
               "ToolTip": "I:\\ALIEN HOUSE MUSIC - Project IDX",
@@ -2619,7 +2844,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 185,
+              "DocumentIndex": 202,
               "Title": "alarm.db",
               "DocumentMoniker": "I:\\alarm.db",
               "ToolTip": "I:\\alarm.db",
@@ -2628,7 +2853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 186,
+              "DocumentIndex": 203,
               "Title": "AIEN HOUSE MUSIC App Inquiry",
               "DocumentMoniker": "I:\\AIEN HOUSE MUSIC App Inquiry",
               "ToolTip": "I:\\AIEN HOUSE MUSIC App Inquiry",
@@ -2638,7 +2863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 187,
+              "DocumentIndex": 204,
               "Title": "AHM-1 1",
               "DocumentMoniker": "I:\\AHM-1 1",
               "ToolTip": "I:\\AHM-1 1",
@@ -2648,7 +2873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 188,
+              "DocumentIndex": 205,
               "Title": "AHM-1",
               "DocumentMoniker": "I:\\AHM-1",
               "ToolTip": "I:\\AHM-1",
@@ -2658,7 +2883,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 189,
+              "DocumentIndex": 206,
               "Title": "Activity.png -  [English (United Kingdom)] - PNG [1280x593, 32 bit, PNG]",
               "DocumentMoniker": "I:\\Activity.png",
               "ToolTip": "I:\\Activity.png -  [English (United Kingdom)] - PNG [1280x593, 32 bit, PNG]",
@@ -2668,7 +2893,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 190,
+              "DocumentIndex": 207,
               "Title": "Actions \u00B7 microsoft-vscode-discussions.png -  [English (United Kingdom)] - PNG [1078x913, 32 bit, PNG]",
               "DocumentMoniker": "I:\\Actions \u00B7 microsoft-vscode-discussions.png",
               "ToolTip": "I:\\Actions \u00B7 microsoft-vscode-discussions.png -  [English (United Kingdom)] - PNG [1078x913, 32 bit, PNG]",
@@ -2678,7 +2903,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 191,
+              "DocumentIndex": 208,
               "Title": "Achieve Success with Resilience and Innovation.ics",
               "DocumentMoniker": "I:\\Achieve Success with Resilience and Innovation.ics",
               "ToolTip": "I:\\Achieve Success with Resilience and Innovation.ics",
@@ -2688,7 +2913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 192,
+              "DocumentIndex": 209,
               "Title": "481032573.json",
               "DocumentMoniker": "I:\\481032573.json",
               "ToolTip": "I:\\481032573.json",
@@ -2698,7 +2923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 193,
+              "DocumentIndex": 210,
               "Title": "538766bd9573a21e.uid",
               "DocumentMoniker": "I:\\538766bd9573a21e.uid",
               "ToolTip": "I:\\538766bd9573a21e.uid",
@@ -2708,7 +2933,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 194,
+              "DocumentIndex": 211,
               "Title": "26ac4cd439f75552.uid",
               "DocumentMoniker": "I:\\26ac4cd439f75552.uid",
               "ToolTip": "I:\\26ac4cd439f75552.uid",
@@ -2718,7 +2943,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 195,
+              "DocumentIndex": 212,
               "Title": "23 Apr 2025 919 PM.txt",
               "DocumentMoniker": "I:\\23 Apr 2025 919 PM.txt",
               "ToolTip": "I:\\23 Apr 2025 919 PM.txt",
@@ -2728,7 +2953,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 196,
+              "DocumentIndex": 213,
               "Title": "1st (1127).txt",
               "DocumentMoniker": "I:\\1st (1127).txt",
               "ToolTip": "I:\\1st (1127).txt",
@@ -2738,7 +2963,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 197,
+              "DocumentIndex": 214,
               "Title": "-1.Latest Google AI Studio topics - Google AI Developers Forum",
               "DocumentMoniker": "I:\\-1.Latest Google AI Studio topics - Google AI Developers Forum",
               "ToolTip": "I:\\-1.Latest Google AI Studio topics - Google AI Developers Forum",
@@ -2748,7 +2973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 198,
+              "DocumentIndex": 215,
               "Title": "1.84.0\u0027",
               "DocumentMoniker": "I:\\1.84.0\u0027",
               "ToolTip": "I:\\1.84.0\u0027",
@@ -2758,7 +2983,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 199,
+              "DocumentIndex": 216,
               "Title": "-1 (1).Latest Google AI Studio topics - Google AI Developers Forum",
               "DocumentMoniker": "I:\\-1 (1).Latest Google AI Studio topics - Google AI Developers Forum",
               "ToolTip": "I:\\-1 (1).Latest Google AI Studio topics - Google AI Developers Forum",
@@ -2768,7 +2993,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 200,
+              "DocumentIndex": 217,
               "Title": "[project].txt",
               "DocumentMoniker": "I:\\[project].txt",
               "ToolTip": "I:\\[project].txt",
@@ -2778,7 +3003,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 201,
+              "DocumentIndex": 218,
               "Title": ".vsconfig",
               "DocumentMoniker": "I:\\.vsconfig",
               "ToolTip": "I:\\.vsconfig",
@@ -2788,7 +3013,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 202,
+              "DocumentIndex": 219,
               "Title": ".snapshots.code-workspace",
               "DocumentMoniker": "I:\\.snapshots.code-workspace",
               "ToolTip": "I:\\.snapshots.code-workspace",
@@ -2798,7 +3023,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 203,
+              "DocumentIndex": 220,
               "Title": ".Latest Google AI Studio topics - Google AI Developers Forum",
               "DocumentMoniker": "I:\\.Latest Google AI Studio topics - Google AI Developers Forum",
               "ToolTip": "I:\\.Latest Google AI Studio topics - Google AI Developers Forum",
@@ -2808,7 +3033,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 204,
+              "DocumentIndex": 221,
               "Title": ".dockerignore",
               "DocumentMoniker": "I:\\.dockerignore",
               "ToolTip": "I:\\.dockerignore",
@@ -2818,7 +3043,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 205,
+              "DocumentIndex": 222,
               "Title": "#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers-1 (1)",
               "DocumentMoniker": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers-1 (1)",
               "ToolTip": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers-1 (1)",
@@ -2828,7 +3053,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 206,
+              "DocumentIndex": 223,
               "Title": "#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers-1",
               "DocumentMoniker": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers-1",
               "ToolTip": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers-1",
@@ -2838,7 +3063,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 207,
+              "DocumentIndex": 224,
               "Title": "#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers (1)",
               "DocumentMoniker": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers (1)",
               "ToolTip": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers (1)",
@@ -2848,7 +3073,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 208,
+              "DocumentIndex": 225,
               "Title": "#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers",
               "DocumentMoniker": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers",
               "ToolTip": "I:\\#Explore vision capabilities with the Gemini API \u00A0-\u00A0 Google AI for Developers",
@@ -2858,7 +3083,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 209,
+              "DocumentIndex": 226,
               "Title": "# my-awesome-package.txt",
               "DocumentMoniker": "I:\\# my-awesome-package.txt",
               "ToolTip": "I:\\# my-awesome-package.txt",
@@ -2868,7 +3093,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 210,
+              "DocumentIndex": 227,
               "Title": "workspace.code-workspace",
               "DocumentMoniker": "I:\\workspace.code-workspace",
               "ToolTip": "I:\\workspace.code-workspace",
@@ -2878,7 +3103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 211,
+              "DocumentIndex": 228,
               "Title": "workspace 111.code-workspace",
               "DocumentMoniker": "I:\\workspace 111.code-workspace",
               "ToolTip": "I:\\workspace 111.code-workspace",
@@ -2888,7 +3113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 212,
+              "DocumentIndex": 229,
               "Title": "workspace (2).code-workspace",
               "DocumentMoniker": "I:\\workspace (2).code-workspace",
               "ToolTip": "I:\\workspace (2).code-workspace",
@@ -2898,7 +3123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 213,
+              "DocumentIndex": 230,
               "Title": "wikipedia-structured-contents-metadata.json",
               "DocumentMoniker": "I:\\wikipedia-structured-contents-metadata.json",
               "ToolTip": "I:\\wikipedia-structured-contents-metadata.json",
@@ -2908,7 +3133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 214,
+              "DocumentIndex": 231,
               "Title": "wifiConfig.db",
               "DocumentMoniker": "I:\\wifiConfig.db",
               "ToolTip": "I:\\wifiConfig.db",
